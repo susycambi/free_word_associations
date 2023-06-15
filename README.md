@@ -1,2 +1,11 @@
-# free_word_associations
-A few scripts and their outputs, to transcribe, preprocess, and set up a dataset of free word associations from 12 multi-lingual participants.
+Before running the code, specify where to find `ffmpeg` with the following command: 
+
+```bash
+export PATH=$PATH:~/ffmpeg/bin
+```
+
+Run the code with the command: 
+
+```bash
+python3 FWA_transcriber.py -i input -o output
+```
