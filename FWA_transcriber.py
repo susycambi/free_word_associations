@@ -80,8 +80,8 @@ def save_all_subjects(all_subjects: List[Tuple[str, str]], output_path: str): # 
 # LET'S RUN
 # get the files, function that takes the folder and returns the files in that folder
 files = os.listdir(input_folder)
-all_subjects = [] # empty list
 
+all_subjects = [] # empty list
 for file in files:
     path = input_folder + '/' + file
     if file.endswith(EXT): # to make sure the file is in the right extension

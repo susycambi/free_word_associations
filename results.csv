@@ -1,0 +1,1345 @@
+Cue,Subject,Count,Collection
+['abeill'],S7,4,"[""['miel']"", ""['ruche']"", ""['reine']"", ""['chemin']""]"
+['abeill'],S12,1,"[""['instr']""]"
+['abeill'],S15,3,"[""['ruche']"", ""['miel']"", ""['bourdon']""]"
+['abeill'],S21,4,"[""['miel']"", ""['ruche']"", ""['fleur']"", ""['pollinisation']""]"
+['abeill'],S22,1,"[""['instr']""]"
+['abeill'],S23,1,"[""['instr']""]"
+['abeill'],S30,5,"[""['voler']"", ""['jeune']"", ""['noir']"", ""['miel']"", ""['ruche']""]"
+['abeill'],S34,1,"[""['instr']""]"
+['abeill'],S57,5,"[""['voler']"", ""['miel']"", ""['guêpe']"", ""['piquer']"", ""['faire', 'mal']""]"
+['abeill'],S64,3,"[""['miel']"", ""['arbre']"", ""['erbe']""]"
+['abeill'],S65,3,"[""['miel']"", ""['nature']"", ""['reine']""]"
+['abeill'],S67,0,[]
+['accordéon'],S7,5,"[""['musique']"", ""['danse']"", ""['ballet']"", ""['russie']"", ""['lac', 'de', 'cygne']""]"
+['accordéon'],S12,4,"[""['musique']"", ""['bar']"", ""['bus']"", ""['partition']""]"
+['accordéon'],S15,4,"[""['musique']"", ""['rome']"", ""['vol']"", ""['argent']""]"
+['accordéon'],S21,6,"[""['musique']"", ""['rue']"", ""['folklore']"", ""['difficile']"", ""['rouge']"", ""['air']""]"
+['accordéon'],S22,0,[]
+['accordéon'],S23,5,"[""['musique']"", ""['traditionel']"", ""['performance']"", ""['artiste']"", ""['chanson']""]"
+['accordéon'],S30,4,"[""['musique']"", ""['chiant']"", ""['bruit']"", ""['pas', 'joli']""]"
+['accordéon'],S34,4,"[""['musique']"", ""['difficile']"", ""['bouton']"", ""['rouge']""]"
+['accordéon'],S57,7,"[""['musique']"", ""['danser']"", ""['piano']"", ""['air']"", ""['son']"", ""['entendre']"", ""['ecouter']""]"
+['accordéon'],S64,6,"[""['instrument']"", ""['musique']"", ""['guitar']"", ""['piano']"", ""['guitar', 'electriqu']"", ""['clavier']""]"
+['accordéon'],S65,8,"[""['tramway']"", ""['musique']"", ""['pari']"", ""['romantique']"", ""['instrument']"", ""['musique']"", ""['son']"", ""['melodieux']""]"
+['accordéon'],S67,5,"[""['instrument', 'medical', 'musical']"", ""['musique']"", ""['fribourg']"", ""['chanson']"", ""['français']""]"
+['agrafe'],S7,4,"[""['presse']"", ""['papier']"", ""['scolaire']"", ""['cancellerie']""]"
+['agrafe'],S12,6,"[""['feuille']"", ""['ecole']"", ""['devoir']"", ""['stylo']"", ""['agrafeuse']"", ""['ciseau']""]"
+['agrafe'],S15,4,"[""['papier']"", ""['travail']"", ""['emprimente']"", ""['photocopieur']""]"
+['agrafe'],S21,5,"[""['paquet']"", ""['document']"", ""['agrafer']"", ""['ressembler']"", ""['maintenir']""]"
+['agrafe'],S22,0,[]
+['agrafe'],S23,3,"[""['papier']"", ""['document']"", ""['travail']""]"
+['agrafe'],S30,6,"[""['feuille']"", ""['emprimer']"", ""['papier']"", ""['gris']"", ""['mal']"", ""['douleur']""]"
+['agrafe'],S34,4,"[""['papier']"", ""['machine']"", ""['faire']"", ""['bruit']""]"
+['agrafe'],S57,5,"[""['agrafer']"", ""['document']"", ""['garder']"", ""['propre']"", ""['classer']""]"
+['agrafe'],S64,0,[]
+['agrafe'],S65,0,[]
+['agrafe'],S67,0,[]
+['anguille'],S7,2,"[""['mer']"", ""['dessin', 'animer', 'de', 'disney']""]"
+['anguille'],S12,6,"[""['electricité']"", ""['snorkeling']"", ""['mer']"", ""['ocean']"", ""['corail']"", ""['poisson']""]"
+['anguille'],S15,0,[]
+['anguille'],S21,5,"[""['poisson']"", ""['long']"", ""['ondulation']"", ""['noir']"", ""['visqueux']""]"
+['anguille'],S22,0,[]
+['anguille'],S23,0,[]
+['anguille'],S30,6,"[""['electriqu']"", ""['japon']"", ""['bon']"", ""['manger']"", ""['sushi']"", ""['riz']""]"
+['anguille'],S34,4,"[""['glisser']"", ""['grand']"", ""['noir']"", ""['haut']""]"
+['anguille'],S57,6,"[""['nager']"", ""['manger']"", ""['chasser']"", ""['poisson']"", ""['griller']"", ""['asaisoné']""]"
+['anguille'],S64,3,"[""['serpent']"", ""['mer']"", ""['fruit', 'de', 'mer']""]"
+['anguille'],S65,0,[]
+['anguille'],S67,3,"[""['eau']"", ""['riviere']"", ""['mer']""]"
+['arbalète'],S7,4,"[""['guerre']"", ""['moyen', 'age']"", ""['bataille']"", ""['soldat']""]"
+['arbalète'],S12,6,"[""['le', 'film', 'rebel']"", ""['chasse']"", ""['chasseur']"", ""['fusil']"", ""['arme']"", ""['tire', 'à', 'larc']""]"
+['arbalète'],S15,0,[]
+['arbalète'],S21,5,"[""['armure']"", ""['moyen', 'age']"", ""['cruel']"", ""['destructeur']"", ""['dur']""]"
+['arbalète'],S22,0,[]
+['arbalète'],S23,6,"[""['guerre']"", ""['combat']"", ""['dangereux']"", ""['mort']"", ""['blesser']"", ""['tuer']""]"
+['arbalète'],S30,0,[]
+['arbalète'],S34,4,"[""['flèche']"", ""['guerre']"", ""['moyen', 'age']"", ""['bois']""]"
+['arbalète'],S57,5,"[""['tirer']"", ""['tuer']"", ""['chasser']"", ""['manger']"", ""['fourrure']""]"
+['arbalète'],S64,5,"[""['arc']"", ""['fleche']"", ""['tirer']"", ""['cible']"", ""['chasser']""]"
+['arbalète'],S65,6,"[""['moyen', 'age']"", ""['defense']"", ""['combat']"", ""['bataille']"", ""['fleche']"", ""['narnia']""]"
+['arbalète'],S67,0,[]
+['artichaut'],S7,0,[]
+['artichaut'],S12,0,[]
+['artichaut'],S15,0,[]
+['artichaut'],S21,0,[]
+['artichaut'],S22,0,[]
+['artichaut'],S23,0,[]
+['artichaut'],S30,0,[]
+['artichaut'],S34,0,[]
+['artichaut'],S57,0,[]
+['artichaut'],S64,0,[]
+['artichaut'],S65,0,[]
+['artichaut'],S67,0,[]
+['asperge'],S7,0,[]
+['asperge'],S12,7,"[""['vert']"", ""['cuisine']"", ""['huil']"", ""['couteau']"", ""['fourchette']"", ""['verre']"", ""['assiette']""]"
+['asperge'],S15,5,"[""['salade']"", ""['santé']"", ""['vert']"", ""['croquant']"", ""['delicieux']""]"
+['asperge'],S21,3,"[""['poisson']"", ""['vert']"", ""['long']""]"
+['asperge'],S22,3,"[""['vegetal']"", ""['vert']"", ""['cuisiner']""]"
+['asperge'],S23,3,"[""['vegetal']"", ""['sain']"", ""['nutrition']""]"
+['asperge'],S30,6,"[""['legume']"", ""['puer']"", ""['pipier']"", ""['long']"", ""['mayonnaise']"", ""['bon']""]"
+['asperge'],S34,2,"[""['vert']"", ""['sauce']""]"
+['asperge'],S57,5,"[""['asaisoner']"", ""['manger']"", ""['avec', 'un', 'sauce']"", ""['vapeur']"", ""['vitamine']""]"
+['asperge'],S64,0,[]
+['asperge'],S65,3,"[""['salade']"", ""['bon']"", ""['santé']""]"
+['asperge'],S67,3,"[""['verdure']"", ""['vert']"", ""['vapeur']""]"
+['autruche'],S7,2,"[""['nid']"", ""['courir']""]"
+['autruche'],S12,7,"[""['sable']"", ""['aile']"", ""['plume']"", ""['le', 'œuf']"", ""['grand']"", ""['courire', 'course']"", ""['vite']""]"
+['autruche'],S15,4,"[""['animal']"", ""['jardin', 'botanique']"", ""['sauvage']"", ""['de', 'oeuf']""]"
+['autruche'],S21,4,"[""['oiseau']"", ""['aggressif']"", ""['plume']"", ""['rapide']""]"
+['autruche'],S22,0,[]
+['autruche'],S23,3,"[""['afrique']"", ""['sauvage']"", ""['zoo', 'park']""]"
+['autruche'],S30,3,"[""['rapide']"", ""['grand']"", ""['un', 'oeuf']""]"
+['autruche'],S34,3,"[""['plume']"", ""['dangereux']"", ""['vite']""]"
+['autruche'],S57,3,"[""['tête']"", ""['cacher']"", ""['courir']""]"
+['autruche'],S64,5,"[""['oiseau']"", ""['ail']"", ""['ciel']"", ""['nuage']"", ""['montagne']""]"
+['autruche'],S65,5,"[""['tête']"", ""['cou']"", ""['animal']"", ""['terre']"", ""['protection']""]"
+['autruche'],S67,2,"[""['pouvoir', 'juste', 'courir']"", ""['tre', 'vite']""]"
+['auvent'],S7,4,"[""['proteger', 'lentree']"", ""['porte', 'dentre']"", ""['vent']"", ""['soleil']""]"
+['auvent'],S12,0,[]
+['auvent'],S15,0,[]
+['auvent'],S21,0,[]
+['auvent'],S22,0,[]
+['auvent'],S23,0,[]
+['auvent'],S30,0,[]
+['auvent'],S34,0,[]
+['auvent'],S57,4,"[""['hotel']"", ""['pluie']"", ""['cache']"", ""['restaurer']""]"
+['auvent'],S64,4,"[""['parapluie']"", ""['soleil']"", ""['jupiter']"", ""['mars']""]"
+['auvent'],S65,2,"[""['protection']"", ""['soleil']""]"
+['auvent'],S67,0,[]
+['banjo'],S7,3,"[""['musique']"", ""['chanteur']"", ""['fête']""]"
+['banjo'],S12,0,[]
+['banjo'],S15,0,[]
+['banjo'],S21,4,"[""['instrument']"", ""['musique']"", ""['etat', 'uni']"", ""['lousiane']""]"
+['banjo'],S22,0,[]
+['banjo'],S23,0,[]
+['banjo'],S30,5,"[""['instrument']"", ""['guitar']"", ""['violon']"", ""['accorder']"", ""['acoustique']""]"
+['banjo'],S34,0,[]
+['banjo'],S57,0,[]
+['banjo'],S64,0,[]
+['banjo'],S65,4,"[""['instrument', 'musiqu']"", ""['son']"", ""['vibration']"", ""['guitar']""]"
+['banjo'],S67,0,[]
+['baudrier'],S7,5,"[""['enfant']"", ""['jeu']"", ""['escalier']"", ""['escalade']"", ""['randonnée']""]"
+['baudrier'],S12,7,"[""['harnet']"", ""['escalade']"", ""['grimper']"", ""['saut']"", ""['hauter']"", ""['danger']"", ""['sport']""]"
+['baudrier'],S15,0,[]
+['baudrier'],S21,3,"[""['grimper']"", ""['grimper']"", ""['securité']""]"
+['baudrier'],S22,0,[]
+['baudrier'],S23,0,[]
+['baudrier'],S30,5,"[""['escalader']"", ""['protection']"", ""['grimper']"", ""['cirque']"", ""['stunt']""]"
+['baudrier'],S34,0,[]
+['baudrier'],S57,7,"[""['escalade']"", ""['moniteur', 'descalade']"", ""['arbre']"", ""['accrobranche']"", ""['sport']"", ""['nature']"", ""['dehor']""]"
+['baudrier'],S64,6,"[""['escalade']"", ""['protection']"", ""['chute']"", ""['parachute']"", ""['grimper']"", ""['prise']""]"
+['baudrier'],S65,4,"[""['enfant']"", ""['bebe']"", ""['dos']"", ""['promenade']""]"
+['baudrier'],S67,0,[]
+['bouclier'],S7,3,"[""['epaule']"", ""['bataille']"", ""['guerre']""]"
+['bouclier'],S12,0,[]
+['bouclier'],S15,0,[]
+['bouclier'],S21,4,"[""['armure']"", ""['épée']"", ""['marteau']"", ""['moyen', 'age']""]"
+['bouclier'],S22,0,[]
+['bouclier'],S23,0,[]
+['bouclier'],S30,5,"[""['guerre']"", ""['moyen', 'age']"", ""['épée']"", ""['protection']"", ""['violence']""]"
+['bouclier'],S34,4,"[""['guerre']"", ""['protection']"", ""['bois']"", ""['moyen', 'age']""]"
+['bouclier'],S57,6,"[""['proteger']"", ""['guerre']"", ""['épée']"", ""['se', 'battre']"", ""['proteger']"", ""['sabre']""]"
+['bouclier'],S64,7,"[""['protection']"", ""['épée']"", ""['dragon']"", ""['prince']"", ""['princesse']"", ""['bataille']"", ""['meurtre']""]"
+['bouclier'],S65,6,"[""['armure']"", ""['épée']"", ""['moyen', 'age']"", ""['chevalier']"", ""['combat']"", ""['protection']""]"
+['bouclier'],S67,0,[]
+['boulier'],S7,4,"[""['conter']"", ""['enfant']"", ""['jeu']"", ""['chiffre']""]"
+['boulier'],S12,6,"[""['math']"", ""['enfance']"", ""['jeu']"", ""['equation']"", ""['addition']"", ""['finance']""]"
+['boulier'],S15,0,[]
+['boulier'],S21,5,"[""['matematiqu']"", ""['grec']"", ""['antique']"", ""['vieux']"", ""['conter', 'à', 'le', 'main']""]"
+['boulier'],S22,0,[]
+['boulier'],S23,0,[]
+['boulier'],S30,5,"[""['calculer']"", ""['chine']"", ""['math']"", ""['boule']"", ""['statistique']""]"
+['boulier'],S34,0,[]
+['boulier'],S57,7,"[""['un', 'bille']"", ""['calculer']"", ""['math']"", ""['couleur']"", ""['dire']"", ""['classer']"", ""['faire', 'un', 'calcule']""]"
+['boulier'],S64,0,[]
+['boulier'],S65,0,[]
+['boulier'],S67,0,[]
+['calamar'],S7,6,"[""['fruit', 'de', 'mer']"", ""['manger']"", ""['odeur', 'de', 'mer']"", ""['salé']"", ""['poisson']"", ""['ocean']""]"
+['calamar'],S12,8,"[""['mer']"", ""['pulpe']"", ""['medue']"", ""['poisson']"", ""['nouritture']"", ""['citron']"", ""['alghe']"", ""['soleil']""]"
+['calamar'],S15,4,"[""['mer']"", ""['poisson']"", ""['corail']"", ""['vie', 'marine']""]"
+['calamar'],S21,5,"[""['ocean']"", ""['profond']"", ""['nocturne']"", ""['geer']"", ""['tentacule']""]"
+['calamar'],S22,0,[]
+['calamar'],S23,0,[]
+['calamar'],S30,7,"[""['frire']"", ""['mediteranne']"", ""['ocean']"", ""['grand']"", ""['petit']"", ""['rose']"", ""['brun']""]"
+['calamar'],S34,3,"[""['ocean']"", ""['tentacule']"", ""['manger']""]"
+['calamar'],S57,7,"[""['manger']"", ""['salade']"", ""['nager']"", ""['poisson']"", ""['ocean']"", ""['mer']"", ""['sel']""]"
+['calamar'],S64,0,[]
+['calamar'],S65,5,"[""['crevette']"", ""['fruit', 'de', 'mer']"", ""['nouritture']"", ""['eau', 'saler']"", ""['ocean']""]"
+['calamar'],S67,5,"[""['delicieux']"", ""['gris']"", ""['soupe']"", ""['pomme', 'de', 'terre']"", ""['mer']""]"
+['cameleon'],S7,4,"[""['amazonie']"", ""['savanne']"", ""['chaud']"", ""['changer', 'le', 'couleur']""]"
+['cameleon'],S12,5,"[""['changer', 'de', 'couleur']"", ""['reponse', 'le', 'film']"", ""['animal']"", ""['foret']"", ""['couleur']""]"
+['cameleon'],S15,8,"[""['couleur']"", ""['nature']"", ""['foret']"", ""['arbre']"", ""['feuille']"", ""['mouche']"", ""['insect']"", ""['langue']""]"
+['cameleon'],S21,4,"[""['animal']"", ""['camouflage']"", ""['lézard']"", ""['insectivor']""]"
+['cameleon'],S22,4,"[""['animal']"", ""['camouflage']"", ""['couleur']"", ""['arbre']""]"
+['cameleon'],S23,5,"[""['animal']"", ""['couleur']"", ""['camouflage']"", ""['sauvage']"", ""['amical']""]"
+['cameleon'],S30,6,"[""['changer']"", ""['camoufler']"", ""['langue']"", ""['insect']"", ""['couleur']"", ""['bois']""]"
+['cameleon'],S34,4,"[""['collard']"", ""['trident']"", ""['changement']"", ""['langue']""]"
+['cameleon'],S57,6,"[""['changer', 'de', 'couleur']"", ""['couleur']"", ""['sadapter']"", ""['arbre']"", ""['environment']"", ""['animal']""]"
+['cameleon'],S64,4,"[""['couleur']"", ""['changement']"", ""['adaptation']"", ""['foret']""]"
+['cameleon'],S65,7,"[""['couleur']"", ""['langue']"", ""['camouflage']"", ""['protection']"", ""['oeil']"", ""['colorer']"", ""['beau']""]"
+['cameleon'],S67,4,"[""['changer', 'de', 'couleur']"", ""['tropical']"", ""['tre', 'rare']"", ""['etrang']""]"
+['carillon'],S7,5,"[""['musique']"", ""['jouer']"", ""['concert']"", ""['conservatoire']"", ""['teatre']""]"
+['carillon'],S12,0,[]
+['carillon'],S15,0,[]
+['carillon'],S21,0,[]
+['carillon'],S22,0,[]
+['carillon'],S23,6,"[""['musique']"", ""['instrument']"", ""['orchestre']"", ""['chanson']"", ""['artiste']"", ""['performance']""]"
+['carillon'],S30,3,"[""['musique']"", ""['baton']"", ""['tapper']""]"
+['carillon'],S34,0,[]
+['carillon'],S57,5,"[""['musique']"", ""['fëte']"", ""['melodie']"", ""['danser']"", ""['note']""]"
+['carillon'],S64,0,[]
+['carillon'],S65,3,"[""['instrument', 'musiqu']"", ""['bruit']"", ""['melodieux']""]"
+['carillon'],S67,0,[]
+['catapulte'],S7,5,"[""['pierre']"", ""['fortress']"", ""['muraill']"", ""['geter']"", ""['guerre']""]"
+['catapulte'],S12,8,"[""['medieval']"", ""['chevalier']"", ""['château']"", ""['fortresse']"", ""['arme']"", ""['mort']"", ""['guerre']"", ""['soldat']""]"
+['catapulte'],S15,3,"[""['vieux', 'epoque']"", ""['torture']"", ""['chateau']""]"
+['catapulte'],S21,8,"[""['roman']"", ""['siege']"", ""['pierre']"", ""['maladie']"", ""['strategie']"", ""['destruction']"", ""['attaque']"", ""['non', 'defensiv']""]"
+['catapulte'],S22,2,"[""['lancer']"", ""['bois']""]"
+['catapulte'],S23,4,"[""['guerre']"", ""['siege']"", ""['attaque']"", ""['fortress']""]"
+['catapulte'],S30,6,"[""['cannon']"", ""['moyen', 'age']"", ""['guerre']"", ""['antiquité']"", ""['violence']"", ""['tirer']""]"
+['catapulte'],S34,4,"[""['guerre']"", ""['bois']"", ""['force']"", ""['rapide']""]"
+['catapulte'],S57,8,"[""['guerre']"", ""['moyen', 'age']"", ""['bois']"", ""['feu']"", ""['incendie']"", ""['bruler']"", ""['etandre']"", ""['eau']""]"
+['catapulte'],S64,7,"[""['protection']"", ""['bois']"", ""['bombe']"", ""['attaque']"", ""['chateau']"", ""['roman']"", ""['greque']""]"
+['catapulte'],S65,8,"[""['moyen', 'age']"", ""['combat']"", ""['defense']"", ""['technique']"", ""['decouverte']"", ""['innovation']"", ""['combat']"", ""['strategie']""]"
+['catapulte'],S67,0,[]
+['celeri'],S7,0,[]
+['celeri'],S12,0,[]
+['celeri'],S15,0,[]
+['celeri'],S21,0,[]
+['celeri'],S22,0,[]
+['celeri'],S23,0,[]
+['celeri'],S30,0,[]
+['celeri'],S34,0,[]
+['celeri'],S57,7,"[""['salade']"", ""['mager']"", ""['sauce']"", ""['legume']"", ""['vert']"", ""['planter']"", ""['plantation']""]"
+['celeri'],S64,0,[]
+['celeri'],S65,0,[]
+['celeri'],S67,4,"[""['tre', 'bon', 'pour', 'le', 'santé']"", ""['soupe']"", ""['quiche']"", ""['degoutant']""]"
+['chalumeau'],S7,4,"[""['feu']"", ""['bois']"", ""['odeur']"", ""['chaminet']""]"
+['chalumeau'],S12,5,"[""['marshmellow']"", ""['cuisine']"", ""['chauffer']"", ""['le', 'feu']"", ""['bruler']""]"
+['chalumeau'],S15,0,[]
+['chalumeau'],S21,0,[]
+['chalumeau'],S22,0,[]
+['chalumeau'],S23,0,[]
+['chalumeau'],S30,4,"[""['feu']"", ""['cuire']"", ""['chaleur']"", ""['manger']""]"
+['chalumeau'],S34,4,"[""['feu']"", ""['chaud']"", ""['dangereux']"", ""['ga']""]"
+['chalumeau'],S57,8,"[""['chimie']"", ""['camping']"", ""['allumer']"", ""['feu']"", ""['se', 'rechauffer']"", ""['allumette']"", ""['briquet']"", ""['fumer']""]"
+['chalumeau'],S64,6,"[""['flame']"", ""['allumette']"", ""['briquet']"", ""['cigarette']"", ""['rouler']"", ""['tabac']""]"
+['chalumeau'],S65,0,[]
+['chalumeau'],S67,0,[]
+['charniere'],S7,4,"[""['porte']"", ""['ouvrir']"", ""['vis']"", ""['accrocher']""]"
+['charniere'],S12,5,"[""['porte']"", ""['moment', 'charniere']"", ""['serrure']"", ""['poignée', 'de', 'porte']"", ""['bois']""]"
+['charniere'],S15,0,[]
+['charniere'],S21,4,"[""['usine']"", ""['porte']"", ""['mechanism']"", ""['cuir']""]"
+['charniere'],S22,0,[]
+['charniere'],S23,0,[]
+['charniere'],S30,0,[]
+['charniere'],S34,0,[]
+['charniere'],S57,0,[]
+['charniere'],S64,0,[]
+['charniere'],S65,0,[]
+['charniere'],S67,0,[]
+['chat'],S7,3,"[""['nourriture']"", ""['chien']"", ""['mettre']""]"
+['chat'],S12,6,"[""['canapé']"", ""['animal']"", ""['chien']"", ""['compagnie']"", ""['griffe']"", ""['blessure']""]"
+['chat'],S15,6,"[""['lit']"", ""['poil']"", ""['amour']"", ""['calin']"", ""['nouritture']"", ""['litière']""]"
+['chat'],S21,4,"[""['poil']"", ""['animal']"", ""['felin']"", ""['mammifere']""]"
+['chat'],S22,4,"[""['petit']"", ""['mignon']"", ""['animal']"", ""['gentil']""]"
+['chat'],S23,4,"[""['jouer']"", ""['animal']"", ""['felin']"", ""['mignon']""]"
+['chat'],S30,5,"[""['felin']"", ""['mammifere']"", ""['chien']"", ""['fourrure']"", ""['poil']""]"
+['chat'],S34,0,[]
+['chat'],S57,4,"[""['chaton']"", ""['beau']"", ""['mignon']"", ""['adorable']""]"
+['chat'],S64,5,"[""['chien']"", ""['animal']"", ""['domestique']"", ""['maison']"", ""['meuble']""]"
+['chat'],S65,3,"[""['animal']"", ""['felin']"", ""['mignon']""]"
+['chat'],S67,1,"[""['instr']""]"
+['chaussette'],S7,0,[]
+['chaussette'],S12,0,[]
+['chaussette'],S15,0,[]
+['chaussette'],S21,0,[]
+['chaussette'],S22,0,[]
+['chaussette'],S23,0,[]
+['chaussette'],S30,0,[]
+['chaussette'],S34,0,[]
+['chaussette'],S57,0,[]
+['chaussette'],S64,0,[]
+['chaussette'],S65,0,[]
+['chaussette'],S67,0,[]
+['chevalet'],S7,5,"[""['dessin']"", ""['artiste']"", ""['peintre']"", ""['toile']"", ""['pincal']""]"
+['chevalet'],S12,6,"[""['canva']"", ""['le', 'peinture']"", ""['artiste']"", ""['artiste']"", ""['acriliqu']"", ""['pincal']""]"
+['chevalet'],S15,0,[]
+['chevalet'],S21,0,[]
+['chevalet'],S22,0,[]
+['chevalet'],S23,0,[]
+['chevalet'],S30,7,"[""['peindre']"", ""['reinassance']"", ""['leonardo', 'da', 'vinci']"", ""['toile']"", ""['blanc']"", ""['art']"", ""['artiste']""]"
+['chevalet'],S34,3,"[""['peinture']"", ""['couleur']"", ""['paysage']""]"
+['chevalet'],S57,8,"[""['dessiner']"", ""['peindre']"", ""['peinture']"", ""['histoire', 'de', 'lart']"", ""['observer']"", ""['musee']"", ""['peinture']"", ""['pincal']""]"
+['chevalet'],S64,5,"[""['toile']"", ""['peinture']"", ""['art']"", ""['brosee']"", ""['van', 'gogh']""]"
+['chevalet'],S65,7,"[""['peinture']"", ""['huil']"", ""['tableau']"", ""['fresque']"", ""['art']"", ""['picasso']"", ""['modern']""]"
+['chevalet'],S67,5,"[""['dessiner']"", ""['acril']"", ""['paysage']"", ""['portrer']"", ""['artiste']""]"
+['cintre'],S7,0,[]
+['cintre'],S12,0,[]
+['cintre'],S15,0,[]
+['cintre'],S21,0,[]
+['cintre'],S22,0,[]
+['cintre'],S23,0,[]
+['cintre'],S30,0,[]
+['cintre'],S34,0,[]
+['cintre'],S57,0,[]
+['cintre'],S64,0,[]
+['cintre'],S65,0,[]
+['cintre'],S67,0,[]
+['clarinette'],S7,4,"[""['musique']"", ""['orchestre']"", ""['applaudir']"", ""['chanter']""]"
+['clarinette'],S12,4,"[""['musique']"", ""['musique', 'classique']"", ""['concert']"", ""['spectacle', 'doper']""]"
+['clarinette'],S15,0,[]
+['clarinette'],S21,5,"[""['instrument']"", ""['vent']"", ""['milieu']"", ""['orchestre']"", ""['nasal']""]"
+['clarinette'],S22,0,[]
+['clarinette'],S23,4,"[""['musique']"", ""['orchestre']"", ""['artiste']"", ""['chanson']""]"
+['clarinette'],S30,7,"[""['musique']"", ""['instrument']"", ""['bruit']"", ""['vent']"", ""['saxophone']"", ""['trompette']"", ""['charleston']""]"
+['clarinette'],S34,0,[]
+['clarinette'],S57,6,"[""['musique']"", ""['piano']"", ""['danser']"", ""['note', 'de', 'musique']"", ""['solfege']"", ""['prof', 'de', 'piano']""]"
+['clarinette'],S64,5,"[""['flute']"", ""['souffler']"", ""['musique']"", ""['note']"", ""['accord']""]"
+['clarinette'],S65,0,[]
+['clarinette'],S67,0,[]
+['colibri'],S7,5,"[""['vitesse']"", ""['voler']"", ""['fleur']"", ""['nectare']"", ""['minuscule']""]"
+['colibri'],S12,7,"[""['le', 'vacance']"", ""['fleure']"", ""['sucre']"", ""['nectar']"", ""['aile']"", ""['rapidité']"", ""['vol']""]"
+['colibri'],S15,7,"[""['oiseau']"", ""['fleur']"", ""['ibiscus']"", ""['couleur']"", ""['silence']"", ""['joli']"", ""['mignon']""]"
+['colibri'],S21,5,"[""['vitesse']"", ""['oiseau']"", ""['vert']"", ""['rapide']"", ""['petit']""]"
+['colibri'],S22,4,"[""['oiseau']"", ""['rapide']"", ""['petit']"", ""['fleur']""]"
+['colibri'],S23,5,"[""['oiseau']"", ""['petit']"", ""['couleur']"", ""['pollen']"", ""['fleur']""]"
+['colibri'],S30,7,"[""['hirondelle']"", ""['oiseau']"", ""['voler']"", ""['rapide']"", ""['long']"", ""['haut']"", ""['hydratation']""]"
+['colibri'],S34,4,"[""['couleur']"", ""['voyage']"", ""['bec']"", ""['chant']""]"
+['colibri'],S57,7,"[""['voler']"", ""['couleur']"", ""['oiseau']"", ""['ver', 'de', 'terre']"", ""['bec']"", ""['aile']"", ""['patte']""]"
+['colibri'],S64,4,"[""['couleur']"", ""['voler']"", ""['petit']"", ""['oiseau']""]"
+['colibri'],S65,8,"[""['oiseau']"", ""['bruit']"", ""['chant']"", ""['printemps']"", ""['soleil']"", ""['arbre']"", ""['feuille']"", ""['nid']""]"
+['colibri'],S67,4,"[""['tre', 'petit']"", ""['colorer']"", ""['tropical']"", ""['jamais', 'voir']""]"
+['compas'],S7,6,"[""['matematiqu']"", ""['geographie']"", ""['ecole']"", ""['marrant', 'marin']"", ""['bateau']"", ""['capitain']""]"
+['compas'],S12,7,"[""['devoir']"", ""['rond']"", ""['ecole', 'primaire']"", ""['feuille']"", ""['maitresse']"", ""['prof']"", ""['pupitre']""]"
+['compas'],S15,9,"[""['math']"", ""['cercle']"", ""['angle']"", ""['calculer']"", ""['exercise']"", ""['ecole']"", ""['cour']"", ""['professeur']"", ""['stylo']""]"
+['compas'],S21,0,[]
+['compas'],S22,3,"[""['math']"", ""['dessiner']"", ""['cercle']""]"
+['compas'],S23,5,"[""['matematiqu']"", ""['ecole']"", ""['travail']"", ""['calculer']"", ""['physique']""]"
+['compas'],S30,4,"[""['math']"", ""['geometrie']"", ""['platon']"", ""['statistique']""]"
+['compas'],S34,5,"[""['precision']"", ""['rond']"", ""['ecole']"", ""['matematiqu']"", ""['enfance']""]"
+['compas'],S57,6,"[""['tracer']"", ""['math']"", ""['cercle']"", ""['calculer']"", ""['angle']"", ""['circonference']""]"
+['compas'],S64,5,"[""['equerre']"", ""['feuille']"", ""['geometrie']"", ""['aritmetiqu']"", ""['espace']""]"
+['compas'],S65,0,[]
+['compas'],S67,0,[]
+['cor'],S7,0,[]
+['cor'],S12,4,"[""['chasse']"", ""['trompette']"", ""['chien']"", ""['fusil']""]"
+['cor'],S15,1,"[""['medicine']""]"
+['cor'],S21,4,"[""['instrument']"", ""['orchestre']"", ""['mélodie']"", ""['sonnette']""]"
+['cor'],S22,0,[]
+['cor'],S23,0,[]
+['cor'],S30,6,"[""['musique']"", ""['instrument']"", ""['flûte']"", ""['à', 'vent']"", ""['saxophone']"", ""['guitare']""]"
+['cor'],S34,3,"[""['bruit']"", ""['musique']"", ""['pays', 'de', 'nord']""]"
+['cor'],S57,6,"[""['trompette']"", ""['musique']"", ""['orchestre']"", ""['grand', 'théâtre']"", ""['champagne']"", ""['musique']""]"
+['cor'],S64,7,"[""['saxophone']"", ""['flûte']"", ""['clarinette']"", ""['musique']"", ""['instrument']"", ""['accord']"", ""['jazz']""]"
+['cor'],S65,0,[]
+['cor'],S67,0,[]
+['corail'],S7,4,"[""['mer']"", ""['beauté']"", ""['poisson']"", ""['vie']""]"
+['corail'],S12,9,"[""['mer']"", ""['pollution']"", ""['snorkeling']"", ""['mort']"", ""['poisson']"", ""['méduse']"", ""['algue']"", ""['soleil']"", ""['vacance']""]"
+['corail'],S15,4,"[""['mer']"", ""['poisson']"", ""['vie', 'marine']"", ""['chauffement', 'climatique']""]"
+['corail'],S21,3,"[""['multicellulaire']"", ""['vivant']"", ""['réchauffement']""]"
+['corail'],S22,2,"[""['eau']"", ""['couleur']""]"
+['corail'],S23,4,"[""['sou', 'marin']"", ""['aquatique']"", ""['végétal']"", ""['inanimé']""]"
+['corail'],S30,8,"[""['poisson']"", ""['némo']"", ""['couleur']"", ""['mer']"", ""['océan']"", ""['plonger']"", ""['nager']"", ""['casser']""]"
+['corail'],S34,4,"[""['océan']"", ""['australie']"", ""['danger']"", ""['fragile']""]"
+['corail'],S57,7,"[""['fond', 'marin']"", ""['poisson']"", ""['exotique']"", ""['pêche']"", ""['natation']"", ""['plongée']"", ""['costume', 'de', 'plongée']""]"
+['corail'],S64,6,"[""['corail']"", ""['fruit', 'de', 'mer']"", ""['mer']"", ""['océan']"", ""['requin']"", ""['plancton']""]"
+['corail'],S65,6,"[""['ocean']"", ""['pollution']"", ""['beau']"", ""['muraill']"", ""['sirène']"", ""['etoile', 'de', 'mer']""]"
+['corail'],S67,4,"[""['mer']"", ""['diving']"", ""['joli']"", ""['différent', 'couleur']""]"
+['cornemuse'],S7,4,"[""['juillet']"", ""['musique']"", ""['rituel']"", ""['tribu']""]"
+['cornemuse'],S12,6,"[""['écosser']"", ""['jupe']"", ""['quadrillage']"", ""['musique']"", ""['note', 'de', 'musique']"", ""['homme']""]"
+['cornemuse'],S15,3,"[""['musique']"", ""['écosser']"", ""['tradition']""]"
+['cornemuse'],S21,5,"[""['instrument', 'à', 'vent']"", ""['compliqué']"", ""['écosser']"", ""['folklorique']"", ""['spécial']""]"
+['cornemuse'],S22,0,[]
+['cornemuse'],S23,0,[]
+['cornemuse'],S30,5,"[""['musique']"", ""['à', 'vent']"", ""['écosser']"", ""['irland']"", ""['jupe']""]"
+['cornemuse'],S34,3,"[""['musique']"", ""['écosser']"", ""['entraîner']""]"
+['cornemuse'],S57,5,"[""['musique']"", ""['dance']"", ""['instrument', 'national']"", ""['amusement']"", ""['fête']""]"
+['cornemuse'],S64,4,"[""['instrument']"", ""['turquie']"", ""['mer', 'noir']"", ""['culture']""]"
+['cornemuse'],S65,0,[]
+['cornemuse'],S67,0,[]
+['cymbale'],S7,6,"[""['musique']"", ""['orchestre']"", ""['concert']"", ""['conservatoire']"", ""['juillet']"", ""['ensemble']""]"
+['cymbale'],S12,5,"[""['musique']"", ""['rock']"", ""['batterie']"", ""['salle', 'de', 'musique']"", ""['note', 'de', 'musique']""]"
+['cymbale'],S15,0,[]
+['cymbale'],S21,6,"[""['musique']"", ""['instrument']"", ""['tambour']"", ""['concert']"", ""['orchestre']"", ""['percussion']""]"
+['cymbale'],S22,0,[]
+['cymbale'],S23,0,[]
+['cymbale'],S30,6,"[""['musique']"", ""['batterie']"", ""['baguette']"", ""['charleston']"", ""['snare']"", ""['kick']""]"
+['cymbale'],S34,3,"[""['musique']"", ""['bruit']"", ""['orchestre']""]"
+['cymbale'],S57,7,"[""['musique']"", ""['batterie']"", ""['bâton']"", ""['rythme']"", ""['danser']"", ""['concert']"", ""['groupe']""]"
+['cymbale'],S64,3,"[""['batteur']"", ""['drum']"", ""['whiplash']""]"
+['cymbale'],S65,0,[]
+['cymbale'],S67,0,[]
+['decapsuleur'],S7,4,"[""['chirurgien']"", ""['opération']"", ""['hôpital']"", ""['médecin']""]"
+['decapsuleur'],S12,5,"[""['soirée']"", ""['bière']"", ""['alcool']"", ""['verre']"", ""['bar']""]"
+['decapsuleur'],S15,8,"[""['bière']"", ""['vin']"", ""['soirée']"", ""['ambiance']"", ""['amusement']"", ""['boisson']"", ""['bourré']"", ""['coma']""]"
+['decapsuleur'],S21,4,"[""['boisson']"", ""['alcool']"", ""['bière']"", ""['capsule']""]"
+['decapsuleur'],S22,0,[]
+['decapsuleur'],S23,0,[]
+['decapsuleur'],S30,6,"[""['ouvrir']"", ""['bière']"", ""['bouchon']"", ""['pointu']"", ""['rond']"", ""['trou']""]"
+['decapsuleur'],S34,4,"[""['bière']"", ""['vin']"", ""['boisson']"", ""['force']""]"
+['decapsuleur'],S57,9,"[""['boire']"", ""['bière']"", ""['fête']"", ""['samuser']"", ""['danser']"", ""['chanter']"", ""['boîte', 'de', 'nuit']"", ""['boire']"", ""['ivre']""]"
+['decapsuleur'],S64,5,"[""['canette']"", ""['métallique']"", ""['aluminium']"", ""['bouchon']"", ""['capsule']""]"
+['decapsuleur'],S65,5,"[""['bouteille']"", ""['bière']"", ""['verre']"", ""['alcool']"", ""['boisson']""]"
+['decapsuleur'],S67,0,[]
+['dindon'],S7,4,"[""['fermier']"", ""['poulet']"", ""['volaill']"", ""['rouge']""]"
+['dindon'],S12,7,"[""['ferme']"", ""['bas', 'cour']"", ""['forêt']"", ""['bruit']"", ""['animal']"", ""['oiseau']"", ""['aile']""]"
+['dindon'],S15,4,"[""['oiseau']"", ""['nourriture']"", ""['bruit']"", ""['campagne']""]"
+['dindon'],S21,4,"[""['oiseau']"", ""['grand']"", ""['agressif']"", ""['noir']""]"
+['dindon'],S22,3,"[""['oiseau']"", ""['manger']"", ""['sandwich']""]"
+['dindon'],S23,0,[]
+['dindon'],S30,4,"[""['thanksgiving']"", ""['amérique']"", ""['rôtir']"", ""['poulet']""]"
+['dindon'],S34,5,"[""['fête']"", ""['manger']"", ""['pas', 'beau']"", ""['plume']"", ""['crête']""]"
+['dindon'],S57,6,"[""['dinde']"", ""['sandwich']"", ""['four']"", ""['manger']"", ""['cuisiner']"", ""['assaisonner']""]"
+['dindon'],S64,0,[]
+['dindon'],S65,6,"[""['noël']"", ""['géant']"", ""['repas']"", ""['oiseau']"", ""['paon']"", ""['grand']""]"
+['dindon'],S67,0,[]
+['echenilloir'],S7,0,[]
+['echenilloir'],S12,0,[]
+['echenilloir'],S15,0,[]
+['echenilloir'],S21,0,[]
+['echenilloir'],S22,0,[]
+['echenilloir'],S23,0,[]
+['echenilloir'],S30,0,[]
+['echenilloir'],S34,0,[]
+['echenilloir'],S57,0,[]
+['echenilloir'],S64,0,[]
+['echenilloir'],S65,0,[]
+['echenilloir'],S67,0,[]
+['enclume'],S7,2,"[""['fer']"", ""['appuyer']""]"
+['enclume'],S12,0,[]
+['enclume'],S15,0,[]
+['enclume'],S21,5,"[""['métal']"", ""['forger']"", ""['feu']"", ""['marteau']"", ""['forgeron']""]"
+['enclume'],S22,0,[]
+['enclume'],S23,0,[]
+['enclume'],S30,0,[]
+['enclume'],S34,4,"[""['lourd']"", ""['fer']"", ""['noir']"", ""['moyen', 'âge']""]"
+['enclume'],S57,0,[]
+['enclume'],S64,3,"[""['pois']"", ""['porter']"", ""['construction']""]"
+['enclume'],S65,4,"[""['pierre']"", ""['statue']"", ""['roche']"", ""['historique']""]"
+['enclume'],S67,0,[]
+['entonnoir'],S7,0,[]
+['entonnoir'],S12,0,[]
+['entonnoir'],S15,0,[]
+['entonnoir'],S21,0,[]
+['entonnoir'],S22,0,[]
+['entonnoir'],S23,0,[]
+['entonnoir'],S30,0,[]
+['entonnoir'],S34,0,[]
+['entonnoir'],S57,4,"[""['liquide']"", ""['couler']"", ""['chimie']"", ""['précision']""]"
+['entonnoir'],S64,4,"[""['conteneur']"", ""['filtrage']"", ""['tamisage']"", ""['trier']""]"
+['entonnoir'],S65,0,[]
+['entonnoir'],S67,0,[]
+['eolienn'],S7,0,[]
+['eolienn'],S12,0,[]
+['eolienn'],S15,0,[]
+['eolienn'],S21,0,[]
+['eolienn'],S22,0,[]
+['eolienn'],S23,0,[]
+['eolienn'],S30,0,[]
+['eolienn'],S34,0,[]
+['eolienn'],S57,0,[]
+['eolienn'],S64,0,[]
+['eolienn'],S65,0,[]
+['eolienn'],S67,0,[]
+['epouvantail'],S7,3,"[""['chasser', 'le', 'oiseau']"", ""['protéger', 'le', 'récolte']"", ""['halloween']""]"
+['epouvantail'],S12,6,"[""['corbeau']"", ""['champ']"", ""['blé']"", ""['amérique']"", ""['fermier']"", ""['tracteur']""]"
+['epouvantail'],S15,0,[]
+['epouvantail'],S21,7,"[""['champ']"", ""['grain']"", ""['blé']"", ""['corbeau']"", ""['corvid']"", ""['peur']"", ""['horreur']""]"
+['epouvantail'],S22,0,[]
+['epouvantail'],S23,0,[]
+['epouvantail'],S30,3,"[""['ferme']"", ""['countryside']"", ""['corbeau']""]"
+['epouvantail'],S34,2,"[""['champ']"", ""['peur']""]"
+['epouvantail'],S57,5,"[""['peur']"", ""['amusant']"", ""['habit']"", ""['foint']"", ""['champ']""]"
+['epouvantail'],S64,6,"[""['oiseau']"", ""['herbe']"", ""['haye']"", ""['champ']"", ""['tête']"", ""['mannequin']""]"
+['epouvantail'],S65,6,"[""['halloween']"", ""['effrayant']"", ""['octobre']"", ""['paille']"", ""['champ']"", ""['peur']""]"
+['epouvantail'],S67,3,"[""['halloween']"", ""['effrayant']"", ""['movie', 'roron']""]"
+['espadon'],S7,4,"[""['poisson']"", ""['mer']"", ""['chasser']"", ""['protection']""]"
+['espadon'],S12,8,"[""['poisson']"", ""['épée']"", ""['mer']"", ""['algue']"", ""['étoile', 'de', 'mer']"", ""['soleil']"", ""['océan']"", ""['vacance']""]"
+['espadon'],S15,5,"[""['poisson']"", ""['mer']"", ""['eau']"", ""['micro', 'organisme']"", ""['vie', 'marine']""]"
+['espadon'],S21,7,"[""['poisson']"", ""['pêche']"", ""['fort']"", ""['rapide']"", ""['musculaire']"", ""['rare']"", ""['difficile']""]"
+['espadon'],S22,3,"[""['poisson']"", ""['nager']"", ""['eau']""]"
+['espadon'],S23,0,[]
+['espadon'],S30,8,"[""['poisson']"", ""['thon']"", ""['baleine']"", ""['mère']"", ""['eau']"", ""['océan']"", ""['manger']"", ""['long']""]"
+['espadon'],S34,3,"[""['eau']"", ""['peche']"", ""['grand']""]"
+['espadon'],S57,8,"[""['poisson']"", ""['nager']"", ""['eau']"", ""['aquarium']"", ""['mer']"", ""['océan']"", ""['bateau']"", ""['poisson']""]"
+['espadon'],S64,7,"[""['poisson']"", ""['épée']"", ""['dragon']"", ""['prince']"", ""['princesse']"", ""['mario']"", ""['roi']""]"
+['espadon'],S65,5,"[""['poisson']"", ""['océan']"", ""['lac']"", ""['mer']"", ""['eau', 'doux']""]"
+['espadon'],S67,5,"[""['mer']"", ""['gris']"", ""['dangereal']"", ""['très', 'joli']"", ""['bateau']""]"
+['etrier'],S7,3,"[""['chevalier']"", ""['cheval']"", ""['contest']""]"
+['etrier'],S12,5,"[""['cheval']"", ""['équitation']"", ""['ferme']"", ""['enclore']"", ""['pâturage']""]"
+['etrier'],S15,0,[]
+['etrier'],S21,4,"[""['cheval']"", ""['équitation']"", ""['contrôle']"", ""['virage']""]"
+['etrier'],S22,0,[]
+['etrier'],S23,0,[]
+['etrier'],S30,0,[]
+['etrier'],S34,3,"[""['cheval']"", ""['vitesse']"", ""['monter']""]"
+['etrier'],S57,6,"[""['équitation']"", ""['cheval']"", ""['galop']"", ""['écurie']"", ""['bumb']"", ""['equipment', 'de', 'équitation']""]"
+['etrier'],S64,0,[]
+['etrier'],S65,5,"[""['cheval']"", ""['sabot']"", ""['équitation']"", ""['animal']"", ""['ferme']""]"
+['etrier'],S67,0,[]
+['eventail'],S7,5,"[""['chine']"", ""['culture']"", ""['bouddhisme']"", ""['théâtre']"", ""['geisha']""]"
+['eventail'],S12,6,"[""['froid']"", ""['vent']"", ""['asie']"", ""['chaleur']"", ""['canicule']"", ""['geisha']""]"
+['eventail'],S15,6,"[""['vent']"", ""['chaleur']"", ""['être']"", ""['transpiration']"", ""['fatigue']"", ""['respiration']""]"
+['eventail'],S21,5,"[""['air']"", ""['être']"", ""['chaleur']"", ""['vent']"", ""['chine']""]"
+['eventail'],S22,0,[]
+['eventail'],S23,0,[]
+['eventail'],S30,5,"[""['chaleur']"", ""['fraîcheur']"", ""['asie']"", ""['japon']"", ""['chine']""]"
+['eventail'],S34,5,"[""['chaud']"", ""['espagne']"", ""['asie']"", ""['couleur']"", ""['papier']""]"
+['eventail'],S57,5,"[""['chaleur']"", ""['être']"", ""['plage']"", ""['pratique']"", ""['élégant']""]"
+['eventail'],S64,0,[]
+['eventail'],S65,7,"[""['chine']"", ""['empire']"", ""['aristocratie']"", ""['femme']"", ""['vent']"", ""['chaleur']"", ""['canicule']""]"
+['eventail'],S67,0,[]
+['extincteur'],S7,0,[]
+['extincteur'],S12,0,[]
+['extincteur'],S15,0,[]
+['extincteur'],S21,0,[]
+['extincteur'],S22,0,[]
+['extincteur'],S23,0,[]
+['extincteur'],S30,0,[]
+['extincteur'],S34,0,[]
+['extincteur'],S57,6,"[""['incendie']"", ""['pompier']"", ""['camion', 'pompier']"", ""['secours']"", ""['feu']"", ""['combinaison']""]"
+['extincteur'],S64,5,"[""['feu']"", ""['fumée']"", ""['mousse']"", ""['blanc']"", ""['chalet']""]"
+['extincteur'],S65,0,[]
+['extincteur'],S67,4,"[""['feu']"", ""['pompier']"", ""['prévenir']"", ""['cant', 'find', 'word', 'sav']""]"
+['flasque'],S7,4,"[""['boisson']"", ""['alcoolique']"", ""['cacher']"", ""['boire']""]"
+['flasque'],S12,6,"[""['alcool']"", ""['alcoolisme']"", ""['vodka']"", ""['whisky']"", ""['addiction']"", ""['le', 'vieux']""]"
+['flasque'],S15,5,"[""['alcool']"", ""['bouteille']"", ""['apéro']"", ""['pêche']"", ""['bourré']""]"
+['flasque'],S21,0,[]
+['flasque'],S22,0,[]
+['flasque'],S23,0,[]
+['flasque'],S30,7,"[""['alcool']"", ""['liquide']"", ""['brûler']"", ""['cacher']"", ""['métal']"", ""['ancien']"", ""['vieux']""]"
+['flasque'],S34,0,[]
+['flasque'],S57,6,"[""['alcool']"", ""['cacher']"", ""['boire']"", ""['ivre']"", ""['danser']"", ""['samuser']""]"
+['flasque'],S64,5,"[""['conteneur']"", ""['eau']"", ""['alcool']"", ""['soirée']"", ""['boîte']""]"
+['flasque'],S65,4,"[""['parfum']"", ""['odeur']"", ""['homme']"", ""['chic']""]"
+['flasque'],S67,3,"[""['boisson']"", ""['froid']"", ""['pour', 'se', 'réchauffer']""]"
+['fourmilier'],S7,5,"[""['fourmi']"", ""['manger']"", ""['nourriture']"", ""['déplacer']"", ""['marché']""]"
+['fourmilier'],S12,7,"[""['fourmi']"", ""['fourmilière']"", ""['nourriture']"", ""['forêt', 'amazonien']"", ""['forêt']"", ""['animal']"", ""['insect']""]"
+['fourmilier'],S15,0,[]
+['fourmilier'],S21,6,"[""['fourmi']"", ""['animal']"", ""['mammifère']"", ""['langue']"", ""['manger']"", ""['terre']""]"
+['fourmilier'],S22,0,[]
+['fourmilier'],S23,0,[]
+['fourmilier'],S30,0,[]
+['fourmilier'],S34,4,"[""['animal']"", ""['poilu']"", ""['fourmi']"", ""['solitaire']""]"
+['fourmilier'],S57,0,[]
+['fourmilier'],S64,0,[]
+['fourmilier'],S65,0,[]
+['fourmilier'],S67,0,[]
+['girouette'],S7,6,"[""['vent']"", ""['direction']"", ""['bâtiment']"", ""['tour']"", ""['ville']"", ""['route']""]"
+['girouette'],S12,4,"[""['vent']"", ""['direction']"", ""['folie']"", ""['maison', 'ancien']""]"
+['girouette'],S15,8,"[""['nord']"", ""['sud']"", ""['être']"", ""['west']"", ""['direction']"", ""['coucher', 'de', 'soleil']"", ""['lever', 'de', 'soleil']"", ""['lumière']""]"
+['girouette'],S21,0,[]
+['girouette'],S22,0,[]
+['girouette'],S23,0,[]
+['girouette'],S30,0,[]
+['girouette'],S34,0,[]
+['girouette'],S57,9,"[""['boussole']"", ""['être']"", ""['ouest']"", ""['nord']"", ""['sud']"", ""['direction']"", ""['fleche']"", ""['aller']"", ""['se', 'déplacer']""]"
+['girouette'],S64,0,[]
+['girouette'],S65,0,[]
+['girouette'],S67,0,[]
+['gland'],S7,2,"[""['port']"", ""['forêt']""]"
+['gland'],S12,6,"[""['écureuil']"", ""['arbre']"", ""['automne']"", ""['feuille']"", ""['ecorce']"", ""['nourriture']""]"
+['gland'],S15,5,"[""['écureuil']"", ""['arbre']"", ""['feuille']"", ""['automne']"", ""['frais']""]"
+['gland'],S21,4,"[""['nature']"", ""['reproduction']"", ""['pollinisation']"", ""['arbre']""]"
+['gland'],S22,0,[]
+['gland'],S23,0,[]
+['gland'],S30,5,"[""['ice', 'age']"", ""['écureuil']"", ""['arbre']"", ""['printemps']"", ""['feuille']""]"
+['gland'],S34,2,"[""['arbre']"", ""['écureuil']""]"
+['gland'],S57,4,"[""['noix']"", ""['écureuil']"", ""['arbre']"", ""['new', 'york']""]"
+['gland'],S64,3,"[""['noix']"", ""['cajou']"", ""['coco']""]"
+['gland'],S65,5,"[""['écureuil']"", ""['arbre']"", ""['nature']"", ""['verdure']"", ""['nature']""]"
+['gland'],S67,0,[]
+['gong'],S7,6,"[""['chine']"", ""['appuyer']"", ""['plier']"", ""['son']"", ""['prière']"", ""['région']""]"
+['gong'],S12,5,"[""['méditation']"", ""['yoga']"", ""['asie']"", ""['bouddhisme']"", ""['temple']""]"
+['gong'],S15,2,"[""['son']"", ""['fort']""]"
+['gong'],S21,3,"[""['son']"", ""['percussion']"", ""['métal']""]"
+['gong'],S22,0,[]
+['gong'],S23,0,[]
+['gong'],S30,6,"[""['bruit']"", ""['cymbale']"", ""['taper']"", ""['lourd']"", ""['métal']"", ""['gris']""]"
+['gong'],S34,0,[]
+['gong'],S57,0,[]
+['gong'],S64,0,[]
+['gong'],S65,0,[]
+['gong'],S67,0,[]
+['gouvernail'],S7,4,"[""['capitaine']"", ""['bateau']"", ""['colombe']"", ""['moyen', 'âge']""]"
+['gouvernail'],S12,5,"[""['bateau']"", ""['capitaine']"", ""['mer']"", ""['pirate']"", ""['barre']""]"
+['gouvernail'],S15,5,"[""['bateau']"", ""['mer']"", ""['capitaine']"", ""['voyage']"", ""['passager']""]"
+['gouvernail'],S21,0,[]
+['gouvernail'],S22,0,[]
+['gouvernail'],S23,5,"[""['navigation']"", ""['mer']"", ""['bateau']"", ""['découverte']"", ""['pirate']""]"
+['gouvernail'],S30,6,"[""['voil']"", ""['bateau']"", ""['navire']"", ""['mère']"", ""['capitaine']"", ""['matelot']""]"
+['gouvernail'],S34,4,"[""['bateau']"", ""['voyage']"", ""['orientation']"", ""['bois']""]"
+['gouvernail'],S57,7,"[""['bateau']"", ""['volant']"", ""['direction']"", ""['aller']"", ""['pirate']"", ""['eau']"", ""['pirate']""]"
+['gouvernail'],S64,0,[]
+['gouvernail'],S65,6,"[""['bateau']"", ""['expédition']"", ""['titanic']"", ""['commandant']"", ""['pirate']"", ""['expédition']""]"
+['gouvernail'],S67,0,[]
+['guillotine'],S7,5,"[""['mort']"", ""['couper', 'le', 'tête']"", ""['moyen', 'âge']"", ""['france']"", ""[' ', 'siècle']""]"
+['guillotine'],S12,6,"[""['marier', 'antoinette']"", ""['france']"", ""['royauté']"", ""['mort']"", ""['décapitation']"", ""['monarchie']""]"
+['guillotine'],S15,0,[]
+['guillotine'],S21,5,"[""['révolution']"", ""['exécution']"", ""['oppression']"", ""['terreur']"", ""['humilité']""]"
+['guillotine'],S22,1,"[""['tête']""]"
+['guillotine'],S23,4,"[""['exécution']"", ""['mort']"", ""['décapitement']"", ""['punition']""]"
+['guillotine'],S30,5,"[""['tuer']"", ""['luire']"", ""['roi']"", ""['france']"", ""['révolution']""]"
+['guillotine'],S34,3,"[""['moyen', 'âge']"", ""['crime']"", ""['spectacle']""]"
+['guillotine'],S57,5,"[""['roi', 'de', 'france']"", ""['tête']"", ""['couper']"", ""['mal']"", ""['torture']""]"
+['guillotine'],S64,5,"[""['mise', 'à', 'mort']"", ""['exécution']"", ""['tête']"", ""['décapitation']"", ""['mort']""]"
+['guillotine'],S65,3,"[""['révolution', 'français']"", ""['histoire']"", ""['marier', 'antoinette']""]"
+['guillotine'],S67,4,"[""['france']"", ""['punition']"", ""['temps', 'ancien']"", ""['finir']""]"
+['guirlande'],S7,0,[]
+['guirlande'],S12,0,[]
+['guirlande'],S15,0,[]
+['guirlande'],S21,0,[]
+['guirlande'],S22,0,[]
+['guirlande'],S23,0,[]
+['guirlande'],S30,0,[]
+['guirlande'],S34,0,[]
+['guirlande'],S57,0,[]
+['guirlande'],S64,0,[]
+['guirlande'],S65,0,[]
+['guirlande'],S67,0,[]
+['hache'],S7,4,"[""['couper']"", ""['bois']"", ""['cheminée']"", ""['odeur']""]"
+['hache'],S12,5,"[""['bois']"", ""['le', 'mort']"", ""['arbre']"", ""['forêt']"", ""['maison']""]"
+['hache'],S15,9,"[""['bois']"", ""['travail']"", ""['transpiration']"", ""['mouvement']"", ""['forêt']"", ""['boire']"", ""['arbre']"", ""['feu']"", ""['chalet']""]"
+['hache'],S21,4,"[""['bois']"", ""['urgence']"", ""['feu']"", ""['lourd']""]"
+['hache'],S22,0,[]
+['hache'],S23,4,"[""['travail']"", ""['construction']"", ""['dangereux']"", ""['arme']""]"
+['hache'],S30,8,"[""['couper']"", ""['bois']"", ""['animal', 'crossing']"", ""['printemps']"", ""['être']"", ""['automne']"", ""['hiver']"", ""['saison']""]"
+['hache'],S34,4,"[""['bois']"", ""['couper']"", ""['forêt']"", ""['cheminée']""]"
+['hache'],S57,7,"[""['couper']"", ""['bois']"", ""['pompier']"", ""['sauver']"", ""['chauffer']"", ""['feu']"", ""['maison']""]"
+['hache'],S64,6,"[""['bois']"", ""['desessemblement']"", ""['blement']"", ""['tranche']"", ""['trancher']"", ""['tuer']""]"
+['hache'],S65,6,"[""['halloween']"", ""['meurtre']"", ""['violence']"", ""['sang']"", ""['crime']"", ""['outil']""]"
+['hache'],S67,5,"[""['taper']"", ""['très', 'lourd']"", ""['dangereal']"", ""['boit']"", ""['homme']""]"
+['haltere'],S7,0,[]
+['haltere'],S12,0,[]
+['haltere'],S15,0,[]
+['haltere'],S21,0,[]
+['haltere'],S22,0,[]
+['haltere'],S23,0,[]
+['haltere'],S30,0,[]
+['haltere'],S34,0,[]
+['haltere'],S57,0,[]
+['haltere'],S64,0,[]
+['haltere'],S65,0,[]
+['haltere'],S67,0,[]
+['hamecon'],S7,4,"[""['poisson']"", ""['pêche']"", ""['douleur']"", ""['nuire']""]"
+['hamecon'],S12,7,"[""['pêche']"", ""['poisson']"", ""['australie']"", ""['mer']"", ""['pêche']"", ""['pêcheur']"", ""['poissonnerie']""]"
+['hamecon'],S15,6,"[""['poisson']"", ""['pêche']"", ""['bord', 'de', 'lac']"", ""['bord', 'de', 'le', 'rivière']"", ""['rivière']"", ""['eau']""]"
+['hamecon'],S21,4,"[""['poisson']"", ""['pêche']"", ""['ver']"", ""['attraper']""]"
+['hamecon'],S22,0,[]
+['hamecon'],S23,0,[]
+['hamecon'],S30,0,[]
+['hamecon'],S34,0,[]
+['hamecon'],S57,0,[]
+['hamecon'],S64,0,[]
+['hamecon'],S65,0,[]
+['hamecon'],S67,0,[]
+['harmonica'],S7,4,"[""['musique']"", ""['jouer']"", ""['fête']"", ""['produire', 'de', 'le', 'musique']""]"
+['harmonica'],S12,0,[]
+['harmonica'],S15,0,[]
+['harmonica'],S21,2,"[""['vent']"", ""['grandpere']""]"
+['harmonica'],S22,0,[]
+['harmonica'],S23,0,[]
+['harmonica'],S30,4,"[""['instrument', 'à', 'vent']"", ""['métal']"", ""['gris']"", ""['acoustique']""]"
+['harmonica'],S34,4,"[""['musique']"", ""['harmonieux']"", ""['enfant']"", ""['air']""]"
+['harmonica'],S57,0,[]
+['harmonica'],S64,0,[]
+['harmonica'],S65,0,[]
+['harmonica'],S67,0,[]
+['heron'],S7,4,"[""['fleuve']"", ""['poisson']"", ""['voler']"", ""['sable']""]"
+['heron'],S12,7,"[""['marais']"", ""['roseau']"", ""['grenouille']"", ""['libellule']"", ""['asie']"", ""['oiseau']"", ""['animal']""]"
+['heron'],S15,5,"[""['pelican']"", ""['oiseau']"", ""['air']"", ""['voler']"", ""['oeuf']""]"
+['heron'],S21,5,"[""['oiseau']"", ""['long', 'patte']"", ""['blanc']"", ""['jaune']"", ""['vol']""]"
+['heron'],S22,0,[]
+['heron'],S23,0,[]
+['heron'],S30,7,"[""['héron']"", ""['voler']"", ""['flamant', 'rose']"", ""['long']"", ""['bec']"", ""['blanc']"", ""['jaune']""]"
+['heron'],S34,4,"[""['long']"", ""['bec']"", ""['blanc']"", ""['voyage']""]"
+['heron'],S57,6,"[""['oiseau']"", ""['blanc']"", ""['bec']"", ""['patte']"", ""['voler']"", ""['champ']""]"
+['heron'],S64,6,"[""['flamingo']"", ""['eau']"", ""['poisson']"", ""['lac']"", ""['nager']"", ""['voler']""]"
+['heron'],S65,6,"[""['majestueux']"", ""['jambe']"", ""['long']"", ""['animal']"", ""['oiseau']"", ""['aile']""]"
+['heron'],S67,0,[]
+['hyene'],S7,0,[]
+['hyene'],S12,0,[]
+['hyene'],S15,0,[]
+['hyene'],S21,0,[]
+['hyene'],S22,0,[]
+['hyene'],S23,0,[]
+['hyene'],S30,0,[]
+['hyene'],S34,0,[]
+['hyene'],S57,0,[]
+['hyene'],S64,0,[]
+['hyene'],S65,0,[]
+['hyene'],S67,0,[]
+['jante'],S7,4,"[""['rouler']"", ""['voiture']"", ""['route']"", ""['protection']""]"
+['jante'],S12,6,"[""['roue']"", ""['voiture']"", ""['automobile']"", ""['mécano']"", ""['essence']"", ""['pneu']""]"
+['jante'],S15,7,"[""['voiture']"", ""['caoutchouc']"", ""['route']"", ""['entretien']"", ""['argent']"", ""['coup']"", ""['taxe']""]"
+['jante'],S21,0,[]
+['jante'],S22,0,[]
+['jante'],S23,0,[]
+['jante'],S30,4,"[""['rouler']"", ""['pneu']"", ""['voiture']"", ""['moto']""]"
+['jante'],S34,3,"[""['voiture']"", ""['joli']"", ""['aluminium']""]"
+['jante'],S57,7,"[""['roue']"", ""['voiture']"", ""['rouler']"", ""['accident']"", ""['volant']"", ""['permettre', 'de', 'conduire']"", ""['théorie']""]"
+['jante'],S64,7,"[""['roue']"", ""['pneu']"", ""['voiture']"", ""['véhicule']"", ""['chemin']"", ""['avenue']"", ""['marathon']""]"
+['jante'],S65,4,"[""['voiture']"", ""['mécanique']"", ""['instrument']"", ""['outil']""]"
+['jante'],S67,4,"[""['roue']"", ""['voiture']"", ""['très', 'cher']"", ""['montage']""]"
+['lama'],S7,0,[]
+['lama'],S12,0,[]
+['lama'],S15,0,[]
+['lama'],S21,0,[]
+['lama'],S22,0,[]
+['lama'],S23,0,[]
+['lama'],S30,0,[]
+['lama'],S34,0,[]
+['lama'],S57,0,[]
+['lama'],S64,0,[]
+['lama'],S65,0,[]
+['lama'],S67,0,[]
+['litchi'],S7,6,"[""['fruit']"", ""['exotique']"", ""['thailand']"", ""['sucrer']"", ""['mango']"", ""['papaya']""]"
+['litchi'],S12,5,"[""['bubbl', 'tea']"", ""['boisson']"", ""['fruit']"", ""['italie']"", ""['blanc']""]"
+['litchi'],S15,7,"[""['fruit']"", ""['bon']"", ""['sucrer']"", ""['alcool']"", ""['cidre']"", ""['dessert']"", ""['bon']""]"
+['litchi'],S21,6,"[""['fruit']"", ""['exotique']"", ""['thailand']"", ""['sucrer']"", ""['mango']"", ""['papaya']""]"
+['litchi'],S22,4,"[""['fruit']"", ""['manger']"", ""['boire']"", ""['saveur']""]"
+['litchi'],S23,0,[]
+['litchi'],S30,6,"[""['bon']"", ""['tropical']"", ""['ramboutan']"", ""['fruit']"", ""['légume']"", ""['graine']""]"
+['litchi'],S34,4,"[""['fruit']"", ""['asiatique']"", ""['succulent']"", ""['juteux']""]"
+['litchi'],S57,8,"[""['jus']"", ""['boire']"", ""['vitamine']"", ""['fruit']"", ""['pomme']"", ""['poire']"", ""['banane']"", ""['fraise']""]"
+['litchi'],S64,3,"[""['fruit']"", ""['dragon']"", ""['fruit', 'de', 'mer']""]"
+['litchi'],S65,7,"[""['fruit']"", ""['bon']"", ""['sucrer']"", ""['exotique']"", ""['petit']"", ""['blanc']"", ""['visqueux']""]"
+['litchi'],S67,0,[]
+['louche'],S7,0,[]
+['louche'],S12,0,[]
+['louche'],S15,0,[]
+['louche'],S21,0,[]
+['louche'],S22,0,[]
+['louche'],S23,0,[]
+['louche'],S30,0,[]
+['louche'],S34,0,[]
+['louche'],S57,7,"[""['soupe']"", ""['cantine']"", ""['parascolaire']"", ""['vitamine']"", ""['manger']"", ""['boire']"", ""['pain']""]"
+['louche'],S64,0,[]
+['louche'],S65,0,[]
+['louche'],S67,0,[]
+['loupe'],S7,0,[]
+['loupe'],S12,0,[]
+['loupe'],S15,0,[]
+['loupe'],S21,0,[]
+['loupe'],S22,0,[]
+['loupe'],S23,0,[]
+['loupe'],S30,0,[]
+['loupe'],S34,0,[]
+['loupe'],S57,0,[]
+['loupe'],S64,0,[]
+['loupe'],S65,0,[]
+['loupe'],S67,0,[]
+['lynx'],S7,4,"[""['chat']"", ""['felin']"", ""['oreille']"", ""['patte']""]"
+['lynx'],S12,6,"[""['montagne']"", ""['chat']"", ""['félin']"", ""['chasseur']"", ""['dent']"", ""['souris']""]"
+['lynx'],S15,5,"[""['hyene']"", ""['sauvage']"", ""['dangereux']"", ""['forêt']"", ""['afrique']""]"
+['lynx'],S21,4,"[""['poilu']"", ""['prédateur']"", ""['chaton']"", ""['félin']""]"
+['lynx'],S22,4,"[""['animal']"", ""['chat']"", ""['mignon']"", ""['oreille']""]"
+['lynx'],S23,5,"[""['chat']"", ""['animal']"", ""['sauvage']"", ""['félin']"", ""['prédateur']""]"
+['lynx'],S30,7,"[""['felin']"", ""['tigre']"", ""['lion']"", ""['savane']"", ""['forêt']"", ""['désert']"", ""['jungle']""]"
+['lynx'],S34,5,"[""['dent']"", ""['pointue']"", ""['collar']"", ""['chasse']"", ""['rapide']""]"
+['lynx'],S57,7,"[""['félin']"", ""['chat']"", ""['lion']"", ""['guépard']"", ""['panthère']"", ""['jaguar']"", ""['safari']""]"
+['lynx'],S64,5,"[""['sphinx']"", ""['chat']"", ""['tigre']"", ""['lion']"", ""['animal']""]"
+['lynx'],S65,6,"[""['félin']"", ""['suisse']"", ""['rare']"", ""['disparition']"", ""['petit']"", ""['beau']""]"
+['lynx'],S67,4,"[""['vicieux']"", ""['zoo', 'parc']"", ""['sauvage']"", ""['très', 'vite']""]"
+['maraca'],S7,0,[]
+['maraca'],S12,0,[]
+['maraca'],S15,0,[]
+['maraca'],S21,0,[]
+['maraca'],S22,0,[]
+['maraca'],S23,0,[]
+['maraca'],S30,0,[]
+['maraca'],S34,0,[]
+['maraca'],S57,5,"[""['danser']"", ""['chanter']"", ""['jouer', 'de', 'le', 'musique']"", ""['composer']"", ""['note', 'de', 'musique']""]"
+['maraca'],S64,0,[]
+['maraca'],S65,0,[]
+['maraca'],S67,0,[]
+['megaphone'],S7,4,"[""['parler']"", ""['voix']"", ""['manifestation']"", ""['militant']""]"
+['megaphone'],S12,7,"[""['foule']"", ""['manifestation']"", ""['bruit']"", ""['volume']"", ""['voix']"", ""['cri']"", ""['slogan']""]"
+['megaphone'],S15,5,"[""['bruit']"", ""['ordre']"", ""['information']"", ""['police']"", ""['gendarmerie']""]"
+['megaphone'],S21,4,"[""['son']"", ""['électronique']"", ""['américain']"", ""['manifestation']""]"
+['megaphone'],S22,2,"[""['parler']"", ""['fort']""]"
+['megaphone'],S23,3,"[""['manifestation']"", ""['haut', 'parleur']"", ""['crier']""]"
+['megaphone'],S30,6,"[""['bruit']"", ""['parler']"", ""['manifestation']"", ""['entendre']"", ""['crier']"", ""['fort']""]"
+['megaphone'],S34,4,"[""['bruit']"", ""['parler']"", ""['distance']"", ""['foule']""]"
+['megaphone'],S57,8,"[""['annoncer']"", ""['fort']"", ""['crier']"", ""['entendre']"", ""['alerte']"", ""['alerter']"", ""['incendie']"", ""['accident']""]"
+['megaphone'],S64,6,"[""['mégaphone']"", ""['haut', 'parleur']"", ""['audio']"", ""['son']"", ""['intensité']"", ""['réflexion']""]"
+['megaphone'],S65,5,"[""['bruit']"", ""['politique']"", ""['foule']"", ""['voix']"", ""['discours']""]"
+['megaphone'],S67,0,[]
+['memetronome'],S7,5,"[""['musique']"", ""['piano']"", ""['jouer']"", ""['école']"", ""['solfeggio']""]"
+['memetronome'],S12,6,"[""['musique']"", ""['piano']"", ""['touche', 'de', 'musique']"", ""['noir']"", ""['blanc']"", ""['partition']""]"
+['memetronome'],S15,7,"[""['piano']"", ""['rythme']"", ""['son']"", ""['cours']"", ""['lesser']"", ""['musique']"", ""['plaisant']""]"
+['memetronome'],S21,4,"[""['musique']"", ""['rythme']"", ""['tempo']"", ""['bpm']""]"
+['memetronome'],S22,0,[]
+['memetronome'],S23,5,"[""['scientifique']"", ""['physique']"", ""['calcul']"", ""['observation']"", ""['précision']""]"
+['memetronome'],S30,6,"[""['musique']"", ""['chiant']"", ""['instrument']"", ""['rapide']"", ""['long']"", ""['normal']""]"
+['memetronome'],S34,0,[]
+['memetronome'],S57,0,[]
+['memetronome'],S64,0,[]
+['memetronome'],S65,0,[]
+['memetronome'],S67,0,[]
+['microscope'],S7,4,"[""['chercheur']"", ""['investiger']"", ""['chercher']"", ""['augmenter', 'le', 'vue']""]"
+['microscope'],S12,6,"[""['biologie']"", ""['cellule']"", ""['organisme', 'vivant']"", ""['école']"", ""['collège']"", ""['salle', 'de', 'laboratoir']""]"
+['microscope'],S15,4,"[""['science']"", ""['médecine']"", ""['cellule']"", ""['recherche']""]"
+['microscope'],S21,7,"[""['observation']"", ""['biologie']"", ""['medicine']"", ""['microscopique']"", ""['petit']"", ""['nanométrique']"", ""['forme', 'de', 'vie']""]"
+['microscope'],S22,5,"[""['médecine']"", ""['regarder']"", ""['bactérie']"", ""['observer']"", ""['expérience']""]"
+['microscope'],S23,5,"[""['scientifique']"", ""['petit']"", ""['observation']"", ""['échelle']"", ""['micro', 'organisme']""]"
+['microscope'],S30,5,"[""['observation']"", ""['insect']"", ""['plante']"", ""['sang']"", ""['verre']""]"
+['microscope'],S34,2,"[""['biologie']"", ""['neuron']""]"
+['microscope'],S57,6,"[""['chimie']"", ""['biologie']"", ""['analyse']"", ""['bactérie']"", ""['dessiner']"", ""['observer']""]"
+['microscope'],S64,5,"[""['bactérie']"", ""['cellule']"", ""['organisme']"", ""['virus']"", ""['lactobacille']""]"
+['microscope'],S65,5,"[""['science']"", ""['télescope']"", ""['recherche']"", ""['science']"", ""['scientifique']""]"
+['microscope'],S67,5,"[""['petit']"", ""['plus', 'grand']"", ""['microbe']"", ""['insect']"", ""['science']""]"
+['morse'],S7,1,"[""['nager']""]"
+['morse'],S12,3,"[""['phoque']"", ""['bébé']"", ""['animal']""]"
+['morse'],S15,2,"[""['eau']"", ""['froid']""]"
+['morse'],S21,0,[]
+['morse'],S22,0,[]
+['morse'],S23,1,"[""['sauvage']""]"
+['morse'],S30,1,"[""['mer']""]"
+['morse'],S34,1,"[""['alaska']""]"
+['morse'],S57,0,[]
+['morse'],S64,0,[]
+['morse'],S65,4,"[""['neige']"", ""['froid']"", ""['hiver']"", ""['température']""]"
+['morse'],S67,0,[]
+['mousqueton'],S7,1,"[""['clé']""]"
+['mousqueton'],S12,6,"[""['escalade']"", ""['rocher']"", ""['salle', 'de', 'sport']"", ""['mur', 'de', 'grimper']"", ""['prise', 'de', 'grimpe']"", ""['harnais']""]"
+['mousqueton'],S15,0,[]
+['mousqueton'],S21,0,[]
+['mousqueton'],S22,0,[]
+['mousqueton'],S23,0,[]
+['mousqueton'],S30,2,"[""['escalader']"", ""['corps']""]"
+['mousqueton'],S34,2,"[""['fer']"", ""['escalade']""]"
+['mousqueton'],S57,0,[]
+['mousqueton'],S64,0,[]
+['mousqueton'],S65,2,"[""['vélo']"", ""['clé']""]"
+['mousqueton'],S67,4,"[""['fixer']"", ""['porter']"", ""['poussette']"", ""['sac']""]"
+['myrtill'],S7,4,"[""['alsace']"", ""['france']"", ""['bon', 'pour', 'le', 'oeil']"", ""['délicieux']""]"
+['myrtill'],S12,4,"[""['tarte']"", ""['fruit']"", ""['saveur']"", ""['framboise']""]"
+['myrtill'],S15,3,"[""['fruit']"", ""['petit', 'déjeuner']"", ""['cher']""]"
+['myrtill'],S21,4,"[""['fruit']"", ""['tarte']"", ""['baie']"", ""['être']""]"
+['myrtill'],S22,4,"[""['fruit']"", ""['manger']"", ""['bleu']"", ""['petit']""]"
+['myrtill'],S23,4,"[""['fruit']"", ""['alimentation']"", ""['vitamine']"", ""['petit', 'déjeuner']""]"
+['myrtill'],S30,2,"[""['vert']"", ""['bleu']""]"
+['myrtill'],S34,3,"[""['baie']"", ""['couleur']"", ""['dessert']""]"
+['myrtill'],S57,5,"[""['fruit']"", ""['vision']"", ""['banane']"", ""['fraise']"", ""['jus']""]"
+['myrtill'],S64,4,"[""['bleu']"", ""['fruit', 'de', 'bois']"", ""['gazon']"", ""['herbe']""]"
+['myrtill'],S65,4,"[""['fruit', 'rouge']"", ""['arbre']"", ""['forêt']"", ""['printemps']""]"
+['myrtill'],S67,4,"[""['délicieux']"", ""['bon', 'pour', 'le', 'santé']"", ""['yogourt']"", ""['gâteau']""]"
+['nenuphar'],S7,0,[]
+['nenuphar'],S12,0,[]
+['nenuphar'],S15,0,[]
+['nenuphar'],S21,0,[]
+['nenuphar'],S22,0,[]
+['nenuphar'],S23,0,[]
+['nenuphar'],S30,0,[]
+['nenuphar'],S34,0,[]
+['nenuphar'],S57,3,"[""['grenouille']"", ""['eau']"", ""['fleur']""]"
+['nenuphar'],S64,0,[]
+['nenuphar'],S65,0,[]
+['nenuphar'],S67,4,"[""['très']"", ""['joli']"", ""['différent', 'couleur']"", ""['eau']""]"
+['neon'],S7,4,"[""['rideau']"", ""['fenêtre']"", ""['lumière']"", ""['lampe']""]"
+['neon'],S12,4,"[""['boîte']"", ""['lumière']"", ""['salle', 'de', 'classe']"", ""['lumière', 'froid']""]"
+['neon'],S15,5,"[""['lumière']"", ""['chambre']"", ""['blanc']"", ""['électricité']"", ""['gaz']""]"
+['neon'],S21,4,"[""['gaz']"", ""['dangereux']"", ""['consommateur']"", ""['long']""]"
+['neon'],S22,0,[]
+['neon'],S23,4,"[""['illumination']"", ""['lumière']"", ""['chambre']"", ""['nuit']""]"
+['neon'],S30,6,"[""['lumière']"", ""['led']"", ""['nuit']"", ""['allumer']"", ""['maison']"", ""['extérieur']""]"
+['neon'],S34,3,"[""['lumiere']"", ""['fragile']"", ""['consommation']""]"
+['neon'],S57,6,"[""['lumière']"", ""['briller']"", ""['éclairer']"", ""['voir']"", ""['éteindre']"", ""['joli']""]"
+['neon'],S64,4,"[""['bâton']"", ""['ultraviolet']"", ""['lumière']"", ""['mur']""]"
+['neon'],S65,0,[]
+['neon'],S67,0,[]
+['ornithorynque'],S7,3,"[""['fleuve']"", ""['faire', 'le', 'nid']"", ""['bois']""]"
+['ornithorynque'],S12,5,"[""['animal']"", ""['castor']"", ""['rivière']"", ""['ruisseau']"", ""['canard']""]"
+['ornithorynque'],S15,4,"[""['perry', 'lornithorynqu']"", ""['dessin', 'animer']"", ""['phinéer', 'et', 'ferb']"", ""['agent', 'secret']""]"
+['ornithorynque'],S21,4,"[""['animal']"", ""['poilu']"", ""['étrange']"", ""['nonnaturel']""]"
+['ornithorynque'],S22,2,"[""['animal']"", ""['eau']""]"
+['ornithorynque'],S23,4,"[""['animal']"", ""['hybride']"", ""['aquatique']"", ""['sauvage']""]"
+['ornithorynque'],S30,4,"[""['plat']"", ""['bec']"", ""['bouche']"", ""['perry']""]"
+['ornithorynque'],S34,5,"[""['australie']"", ""['eau']"", ""['timide']"", ""['bec']"", ""['fourrure']""]"
+['ornithorynque'],S57,5,"[""['australie']"", ""['eau']"", ""['timide']"", ""['bec']"", ""['fourrure']""]"
+['ornithorynque'],S64,0,[]
+['ornithorynque'],S65,0,[]
+['ornithorynque'],S67,0,[]
+['paon'],S7,0,[]
+['paon'],S12,0,[]
+['paon'],S15,0,[]
+['paon'],S21,0,[]
+['paon'],S22,0,[]
+['paon'],S23,0,[]
+['paon'],S30,0,[]
+['paon'],S34,0,[]
+['paon'],S57,4,"[""['joli']"", ""['zoo']"", ""['merveilleux']"", ""['beau']""]"
+['paon'],S64,0,[]
+['paon'],S65,0,[]
+['paon'],S67,0,[]
+['papaye'],S7,5,"[""['fruit', 'exotique']"", ""['thaïland']"", ""['jus']"", ""['chaud']"", ""['soleil']""]"
+['papaye'],S12,3,"[""['fruit']"", ""['jungle']"", ""['pays', 'étranger']""]"
+['papaye'],S15,5,"[""['fruit']"", ""['sucrer']"", ""['délicieux']"", ""['exotique']"", ""['sain']""]"
+['papaye'],S21,3,"[""['tropical']"", ""['graine']"", ""['mou']""]"
+['papaye'],S22,3,"[""['fruit']"", ""['gout']"", ""['manger']""]"
+['papaye'],S23,4,"[""['fruit']"", ""['nutrition']"", ""['vitamine']"", ""['dessert']""]"
+['papaye'],S30,5,"[""['bon']"", ""['graine']"", ""['orange']"", ""['asie']"", ""['amérique', 'latin']""]"
+['papaye'],S34,3,"[""['exotique']"", ""['gout']"", ""['rouge']""]"
+['papaye'],S57,6,"[""['fruit']"", ""['paradisiaque']"", ""['ile']"", ""['profiter']"", ""['vacance']"", ""['être']""]"
+['papaye'],S64,4,"[""['exotic']"", ""['fruit']"", ""['mexiqu']"", ""['tropical']""]"
+['papaye'],S65,4,"[""['exotique']"", ""['fruit']"", ""['bon']"", ""['palmier']""]"
+['papaye'],S67,4,"[""['sucre']"", ""['thaïland']"", ""['pas', 'délicieux', 'de', 'tout']"", ""['fruit', 'très', 'grand']""]"
+['partition'],S7,0,[]
+['partition'],S12,0,[]
+['partition'],S15,0,[]
+['partition'],S21,0,[]
+['partition'],S22,0,[]
+['partition'],S23,0,[]
+['partition'],S30,0,[]
+['partition'],S34,0,[]
+['partition'],S57,7,"[""['musique']"", ""['note']"", ""['solfège']"", ""['clé', 'de', 'sol']"", ""['cler', 'de', 'fa']"", ""['piano']"", ""['spectacle']""]"
+['partition'],S64,4,"[""['note']"", ""['accord']"", ""['echelle']"", ""['octave']""]"
+['partition'],S65,0,[]
+['partition'],S67,6,"[""['note']"", ""['musique']"", ""['piano']"", ""['jouer']"", ""['mozart']"", ""['difficile']""]"
+['pelican'],S7,4,"[""['poisson']"", ""['gorge']"", ""['bec']"", ""['manger']""]"
+['pelican'],S12,6,"[""['dessin', 'animé']"", ""['poisson']"", ""['nourriture']"", ""['oiseau']"", ""['mer']"", ""['vent']""]"
+['pelican'],S15,5,"[""['oiseau']"", ""['poisson']"", ""['nourriture']"", ""['mer']"", ""['nemo']""]"
+['pelican'],S21,5,"[""['transport']"", ""['grand']"", ""['courageux']"", ""['plume']"", ""['orange']""]"
+['pelican'],S22,2,"[""['oiseau']"", ""['eau']""]"
+['pelican'],S23,0,[]
+['pelican'],S30,5,"[""['grand', 'bec']"", ""['nemo']"", ""['voler']"", ""['blanc']"", ""['eau']""]"
+['pelican'],S34,4,"[""['bec']"", ""['eau']"", ""['poisson']"", ""['pêche']""]"
+['pelican'],S57,3,"[""['oiseau']"", ""['voler']"", ""['pigeon']""]"
+['pelican'],S64,6,"[""['voler']"", ""['eau']"", ""['rivière']"", ""['poisson']"", ""['arbre']"", ""['forêt']""]"
+['pelican'],S65,6,"[""['bec']"", ""['gros']"", ""['animal']"", ""['oiseau']"", ""['bruit']"", ""['désagréable']""]"
+['pelican'],S67,3,"[""['grand']"", ""['pas', 'dangereux']"", ""['poisson']""]"
+['phacochere'],S7,3,"[""['animal']"", ""['safari']"", ""['afrique']""]"
+['phacochere'],S12,6,"[""['le', 'roi', 'lion']"", ""['lion']"", ""['savane']"", ""['lémurien']"", ""['soleil']"", ""['cochon']""]"
+['phacochere'],S15,0,[]
+['phacochere'],S21,0,[]
+['phacochere'],S22,0,[]
+['phacochere'],S23,0,[]
+['phacochere'],S30,6,"[""['simber']"", ""['roi', 'lion']"", ""['pumbaa']"", ""['chanter']"", ""['savane']"", ""['afrique']""]"
+['phacochere'],S34,3,"[""['roi', 'lion']"", ""['corne']"", ""['sauvage']""]"
+['phacochere'],S57,8,"[""['sanglier']"", ""['corne']"", ""['animal']"", ""['gris']"", ""['sabot']"", ""['quatre', 'patte']"", ""['courir']"", ""['danger']""]"
+['phacochere'],S64,5,"[""['animal']"", ""['sauvage']"", ""['bois']"", ""['forêt']"", ""['cochon']""]"
+['phacochere'],S65,0,[]
+['phacochere'],S67,0,[]
+['piolet'],S7,3,"[""['jardin']"", ""['bricoler']"", ""['instrument']""]"
+['piolet'],S12,0,[]
+['piolet'],S15,0,[]
+['piolet'],S21,5,"[""['grimper', 'sur', 'glace']"", ""['compétition']"", ""['accrochage']"", ""['pointu']"", ""['ergonomique']""]"
+['piolet'],S22,0,[]
+['piolet'],S23,0,[]
+['piolet'],S30,5,"[""['grimper']"", ""['avalanche']"", ""['neige']"", ""['saccrocher']"", ""['pointu']""]"
+['piolet'],S34,0,[]
+['piolet'],S57,0,[]
+['piolet'],S64,0,[]
+['piolet'],S65,0,[]
+['piolet'],S67,0,[]
+['pipette'],S7,5,"[""['médecin']"", ""['analyse']"", ""['sang']"", ""['hôpital']"", ""['infirmier']""]"
+['pipette'],S12,6,"[""['chimie']"", ""['biologie']"", ""['expérience']"", ""['laboratoire']"", ""['liquide']"", ""['instrument']""]"
+['pipette'],S15,5,"[""['laboratoir']"", ""['médecine']"", ""['recherche']"", ""['cellule']"", ""['solution']""]"
+['pipette'],S21,5,"[""['mesurer']"", ""['médicament']"", ""['scientifique']"", ""['médecine']"", ""['petit', 'quantité']""]"
+['pipette'],S22,6,"[""['mesure']"", ""['mesurer']"", ""['expérience']"", ""['séance']"", ""['chimie']"", ""['substance']""]"
+['pipette'],S23,0,[]
+['pipette'],S30,5,"[""['eau']"", ""['aspirer']"", ""['goutte']"", ""['médicament']"", ""['beau']""]"
+['pipette'],S34,4,"[""['experience']"", ""['goutelette']"", ""['aspiration']"", ""['biologie']""]"
+['pipette'],S57,7,"[""['chimie']"", ""['mesurer']"", ""['millilitre']"", ""['précision']"", ""['blous']"", ""['lunette']"", ""['attention']""]"
+['pipette'],S64,0,[]
+['pipette'],S65,0,[]
+['pipette'],S67,6,"[""['goutte']"", ""['oreille']"", ""['nez']"", ""['misurer']"", ""['médicament']"", ""['médecin']""]"
+['poireau'],S7,0,[]
+['poireau'],S12,0,[]
+['poireau'],S15,0,[]
+['poireau'],S21,0,[]
+['poireau'],S22,0,[]
+['poireau'],S23,0,[]
+['poireau'],S30,0,[]
+['poireau'],S34,0,[]
+['poireau'],S57,0,[]
+['poireau'],S64,0,[]
+['poireau'],S65,0,[]
+['poireau'],S67,0,[]
+['racloir'],S7,0,[]
+['racloir'],S12,4,"[""['nettoyage']"", ""['soirée']"", ""['maison', 'de', 'vacance']"", ""['propreté']""]"
+['racloir'],S15,0,[]
+['racloir'],S21,5,"[""['serpillière']"", ""['nettoyage']"", ""['propreté']"", ""['sol']"", ""['produit']""]"
+['racloir'],S22,0,[]
+['racloir'],S23,0,[]
+['racloir'],S30,2,"[""['nettoyer']"", ""['balai']""]"
+['racloir'],S34,4,"[""['vitre']"", ""['propreté']"", ""['eau']"", ""['mousse']""]"
+['racloir'],S57,0,[]
+['racloir'],S64,0,[]
+['racloir'],S65,0,[]
+['racloir'],S67,0,[]
+['raie'],S7,0,[]
+['raie'],S12,7,"[""['mer']"", ""['électricité']"", ""['snorkeling']"", ""['sable']"", ""['algue']"", ""['vacance']"", ""['soleil']""]"
+['raie'],S15,7,"[""['mer']"", ""['poisson']"", ""['baleine']"", ""['requin']"", ""['eau']"", ""['corail']"", ""['bleu']""]"
+['raie'],S21,4,"[""['danger']"", ""['poisson']"", ""['plat']"", ""['seul', 'marin']""]"
+['raie'],S22,0,[]
+['raie'],S23,5,"[""['océan']"", ""['animal']"", ""['aquatique']"", ""['sauvage']"", ""['dangereux']""]"
+['raie'],S30,3,"[""['plat']"", ""['long']"", ""['queue']""]"
+['raie'],S34,3,"[""['eau']"", ""['grand']"", ""['joli']""]"
+['raie'],S57,7,"[""['nager']"", ""['eau']"", ""['électricité']"", ""['plat']"", ""['poisson']"", ""['mer']"", ""['océan']""]"
+['raie'],S64,0,[]
+['raie'],S65,5,"[""['maldive']"", ""['océan']"", ""['dangereux']"", ""['néfaste']"", ""['plat']""]"
+['raie'],S67,4,"[""['mer']"", ""['eau']"", ""['saler']"", ""['joli']""]"
+['rateau'],S7,0,[]
+['rateau'],S12,0,[]
+['rateau'],S15,0,[]
+['rateau'],S21,0,[]
+['rateau'],S22,0,[]
+['rateau'],S23,0,[]
+['rateau'],S30,0,[]
+['rateau'],S34,0,[]
+['rateau'],S57,6,"[""['jardiner']"", ""['jardin']"", ""['planter']"", ""['herbe']"", ""['fleur']"", ""['pelle']""]"
+['rateau'],S64,0,[]
+['rateau'],S65,0,[]
+['rateau'],S67,0,[]
+['remorque'],S7,0,[]
+['remorque'],S12,5,"[""['vélo']"", ""['porter']"", ""['voiture']"", ""['caravane']"", ""['camping']""]"
+['remorque'],S15,6,"[""['bagage']"", ""['route']"", ""['voiture']"", ""['permettre']"", ""['conduire']"", ""['volant']""]"
+['remorque'],S21,4,"[""['attachement']"", ""['transport']"", ""['addition']"", ""['deux', 'roue']""]"
+['remorque'],S22,0,[]
+['remorque'],S23,0,[]
+['remorque'],S30,5,"[""['voiture']"", ""['lourd']"", ""['derrière']"", ""['suivre']"", ""['attacher']""]"
+['remorque'],S34,0,[]
+['remorque'],S57,0,[]
+['remorque'],S64,4,"[""['remorque']"", ""['voiture']"", ""['caravane']"", ""['camionnette']""]"
+['remorque'],S65,4,"[""['voiture']"", ""['permettre']"", ""['autoroute']"", ""['transport']""]"
+['remorque'],S67,0,[]
+['rhinocero'],S7,0,[]
+['rhinocero'],S12,0,[]
+['rhinocero'],S15,0,[]
+['rhinocero'],S21,0,[]
+['rhinocero'],S22,0,[]
+['rhinocero'],S23,0,[]
+['rhinocero'],S30,0,[]
+['rhinocero'],S34,0,[]
+['rhinocero'],S57,7,"[""['corne']"", ""['zoo']"", ""['safari']"", ""['animal']"", ""['gris']"", ""['quatre', 'patte']"", ""['courir']""]"
+['rhinocero'],S64,1,"[""['t', 're']""]"
+['rhinocero'],S65,0,[]
+['rhinocero'],S67,0,[]
+['sablier'],S7,5,"[""['bain']"", ""['spa']"", ""['therm']"", ""['brosser', 'le', 'dent']"", ""['compter']""]"
+['sablier'],S12,5,"[""['temps']"", ""['sable']"", ""['jeu', 'de', 'société']"", ""['jeu', 'de', 'carte']"", ""['le', 'temps', 'qui', 'passer']""]"
+['sablier'],S15,7,"[""['temps']"", ""['passer']"", ""['présent']"", ""['futur']"", ""['minute']"", ""['second']"", ""['heure']""]"
+['sablier'],S21,6,"[""['temps']"", ""['sable']"", ""['antiquité']"", ""['grèce']"", ""['rome']"", ""['évaluation']""]"
+['sablier'],S22,2,"[""['temps']"", ""['passage']""]"
+['sablier'],S23,3,"[""['temps']"", ""['second']"", ""['attent']""]"
+['sablier'],S30,4,"[""['temps']"", ""['chronomètre']"", ""['changer']"", ""['renverser']""]"
+['sablier'],S34,4,"[""['sable']"", ""['temps']"", ""['jeu']"", ""['rapidité']""]"
+['sablier'],S57,8,"[""['temps']"", ""['sable']"", ""['jeu', 'de', 'société']"", ""['famille']"", ""['amusement']"", ""['rigoler']"", ""['temps']"", ""['cest', 'cool']""]"
+['sablier'],S64,3,"[""['temps']"", ""['indéterminable']"", ""['imprédictible']""]"
+['sablier'],S65,4,"[""['temps']"", ""['aladin']"", ""['sable']"", ""['horloge']""]"
+['sablier'],S67,0,[]
+['salopette'],S7,0,[]
+['salopette'],S12,0,[]
+['salopette'],S15,0,[]
+['salopette'],S21,0,[]
+['salopette'],S22,0,[]
+['salopette'],S23,0,[]
+['salopette'],S30,0,[]
+['salopette'],S34,0,[]
+['salopette'],S57,6,"[""['combinaison']"", ""['travail']"", ""['peindre']"", ""['se', 'salir']"", ""['peinture']"", ""['bricolage']""]"
+['salopette'],S64,0,[]
+['salopette'],S65,0,[]
+['salopette'],S67,5,"[""['bébé']"", ""['garçon']"", ""['être']"", ""['temps', 'très', 'chaud']"", ""['léger']""]"
+['sanglier'],S7,5,"[""['marron']"", ""['forêt']"", ""['dangereux']"", ""['chasser']"", ""['bois']""]"
+['sanglier'],S12,5,"[""['fox', 'terrier']"", ""['chasse']"", ""['forêt']"", ""['cochon']"", ""['phacochère']""]"
+['sanglier'],S15,6,"[""['forêt']"", ""['cochon']"", ""['porc']"", ""['nourriture']"", ""['plat']"", ""['noël']""]"
+['sanglier'],S21,4,"[""['brutal']"", ""['poilu']"", ""['cochon']"", ""['sauvage']""]"
+['sanglier'],S22,0,[]
+['sanglier'],S23,0,[]
+['sanglier'],S30,6,"[""['cochon']"", ""['porcinet']"", ""['sauvage']"", ""['brun']"", ""['petit']"", ""['grand']""]"
+['sanglier'],S34,5,"[""['forêt']"", ""['truffe']"", ""['sale']"", ""['dangereux']"", ""['poilu']""]"
+['sanglier'],S57,7,"[""['astérix']"", ""['obélix']"", ""['grillade']"", ""['manger']"", ""['animal']"", ""['courir']"", ""['sabot']""]"
+['sanglier'],S64,3,"[""['cochon']"", ""['animal']"", ""['forêt']""]"
+['sanglier'],S65,4,"[""['porc']"", ""['viande']"", ""['sauvage']"", ""['proie']""]"
+['sanglier'],S67,0,[]
+['sarcophage'],S7,3,"[""['égypte']"", ""['cadavre']"", ""['pyramide']""]"
+['sarcophage'],S12,7,"[""['égypte']"", ""['pyramide']"", ""['sable']"", ""['chaleur']"", ""['cléopâtre']"", ""['momie']"", ""['tombeau']""]"
+['sarcophage'],S15,6,"[""['sarcophage']"", ""['pharaon']"", ""['egypte']"", ""['sphinx']"", ""['vieux']"", ""['ancier']""]"
+['sarcophage'],S21,5,"[""['tombe']"", ""['rite', 'funéraire']"", ""['égypte']"", ""['décoration']"", ""['or']""]"
+['sarcophage'],S22,1,"[""['égypte']""]"
+['sarcophage'],S23,4,"[""['égypte']"", ""['histoire']"", ""['passer']"", ""['antique']""]"
+['sarcophage'],S30,5,"[""['égypte']"", ""['momie']"", ""['nile']"", ""['riviere']"", ""['pharaon']""]"
+['sarcophage'],S34,0,[]
+['sarcophage'],S57,3,"[""['pyramide']"", ""['égypte']"", ""['découvrir']""]"
+['sarcophage'],S64,5,"[""['momie']"", ""['égypte']"", ""['décoration']"", ""['ornement']"", ""['sacrifice']""]"
+['sarcophage'],S65,8,"[""['égypte']"", ""['toutankhamon']"", ""['pyramide']"", ""['histoire']"", ""['sacrer']"", ""['riche']"", ""['civilisation']"", ""['or']""]"
+['sarcophage'],S67,6,"[""['pharaon']"", ""['momie']"", ""['égypte']"", ""['ancien']"", ""['très', 'riche']"", ""['or']""]"
+['saxophone'],S7,6,"[""['musique']"", ""['chanter']"", ""['concert']"", ""['conservatoire']"", ""['musicien']"", ""['philharmonique']""]"
+['saxophone'],S12,5,"[""['instrument', 'de', 'musique']"", ""['jazz']"", ""['or']"", ""['musique']"", ""['note', 'de', 'musique']""]"
+['saxophone'],S15,4,"[""['musique']"", ""['instrument']"", ""['groupe', 'de', 'musique']"", ""['son']""]"
+['saxophone'],S21,5,"[""['instrument']"", ""['cuivre']"", ""['jazz']"", ""['nouveau', 'orléans']"", ""['groove']""]"
+['saxophone'],S22,0,[]
+['saxophone'],S23,4,"[""['musique']"", ""['orchestre']"", ""['artiste']"", ""['musicien']""]"
+['saxophone'],S30,5,"[""['à', 'vent']"", ""['instrument']"", ""['flûte']"", ""['guitare']"", ""['violon']""]"
+['saxophone'],S34,4,"[""['musique']"", ""['concert']"", ""['melodie']"", ""['bruit']""]"
+['saxophone'],S57,8,"[""['musique']"", ""['danser']"", ""['note', 'de', 'musique']"", ""['partition']"", ""['piano']"", ""['flûte', 'à', 'bec']"", ""['concert']"", ""['solfège']""]"
+['saxophone'],S64,5,"[""['jazz']"", ""['musique']"", ""['accord']"", ""['flûte']"", ""['clarinette']""]"
+['saxophone'],S65,3,"[""['instrument', 'de', 'musique']"", ""['beau']"", ""['or']""]"
+['saxophone'],S67,0,[]
+['scaphandr'],S7,3,"[""['sou', 'marinier']"", ""['expédition']"", ""['investiger']""]"
+['scaphandr'],S12,6,"[""['mer']"", ""['océan']"", ""['plongée']"", ""['sou', 'marin']"", ""['découverte']"", ""['trésor']""]"
+['scaphandr'],S15,3,"[""['mer']"", ""['poisson']"", ""['vie', 'marine']""]"
+['scaphandr'],S21,7,"[""['scaphandr']"", ""['plongée']"", ""[' ', 'siècle']"", ""['exploration']"", ""['protection']"", ""['métal']"", ""['pression']""]"
+['scaphandr'],S22,0,[]
+['scaphandr'],S23,0,[]
+['scaphandr'],S30,0,[]
+['scaphandr'],S34,4,"[""['plongée']"", ""['lourd']"", ""['immersion']"", ""['expérience']""]"
+['scaphandr'],S57,4,"[""['nager']"", ""['mer']"", ""['espace']"", ""['youri', 'gagarin']""]"
+['scaphandr'],S64,0,[]
+['scaphandr'],S65,4,"[""['sou', 'marin']"", ""['eau']"", ""['mer']"", ""['expédition']""]"
+['scaphandr'],S67,0,[]
+['sceptre'],S7,2,"[""['pouvoir']"", ""['état']""]"
+['sceptre'],S12,6,"[""['royauté']"", ""['pouvoir']"", ""['or']"", ""['argent']"", ""['richesse']"", ""['monarchie']""]"
+['sceptre'],S15,0,[]
+['sceptre'],S21,6,"[""['royauté']"", ""['clergé']"", ""['fonction']"", ""['arme']"", ""['guerre']"", ""['statut', 'social']""]"
+['sceptre'],S22,0,[]
+['sceptre'],S23,0,[]
+['sceptre'],S30,0,[]
+['sceptre'],S34,0,[]
+['sceptre'],S57,6,"[""['roi']"", ""['reine']"", ""['couronne']"", ""['gouverner']"", ""['princesse']"", ""['prince']""]"
+['sceptre'],S64,0,[]
+['sceptre'],S65,4,"[""['roi']"", ""['famille', 'royal']"", ""['très', 'cher']"", ""['or']""]"
+['sceptre'],S67,0,[]
+['scorpion'],S7,5,"[""['sarah']"", ""['sable']"", ""['chaud']"", ""['dangereux']"", ""['piqu']""]"
+['scorpion'],S12,6,"[""['tatouage']"", ""['signe', 'astrologique']"", ""['insect']"", ""['animal']"", ""['sable']"", ""['désert']""]"
+['scorpion'],S15,7,"[""['horoscope']"", ""['zodiaque']"", ""['animal']"", ""['poison']"", ""['pincement']"", ""['dangereux']"", ""['plage']""]"
+['scorpion'],S21,6,"[""['vénéneu']"", ""['arthropod']"", ""['insect']"", ""['dangereux']"", ""['sable']"", ""['desert']""]"
+['scorpion'],S22,4,"[""['animal']"", ""['dangereux']"", ""['piqûre']"", ""['desert']""]"
+['scorpion'],S23,4,"[""['dangereux']"", ""['animal']"", ""['insect']"", ""['désert']""]"
+['scorpion'],S30,5,"[""['dangereux']"", ""['pied']"", ""['noir']"", ""['foncé']"", ""['cool']""]"
+['scorpion'],S34,6,"[""['morsure']"", ""['piqûre']"", ""['mort']"", ""['dangereux']"", ""['petit']"", ""['poison']""]"
+['scorpion'],S57,5,"[""['signe', 'de', 'zodiaque']"", ""['novembre']"", ""['nager']"", ""['eau']"", ""['signe', 'deau']""]"
+['scorpion'],S64,5,"[""['lion']"", ""['animal']"", ""['sauvage']"", ""['afrique']"", ""['arbre']""]"
+['scorpion'],S65,4,"[""['dangereux']"", ""['pouvoir', 'tuer']"", ""['egypte']"", ""['sonde']""]"
+['scorpion'],S67,4,"[""['signe', 'astrologique']"", ""['dangereux']"", ""['poison']"", ""['toxique']""]"
+['secateur'],S7,4,"[""['bois']"", ""['couper']"", ""['jardinier']"", ""['rose']""]"
+['secateur'],S12,6,"[""['jardinerie']"", ""['grand', 'mère']"", ""['buisson']"", ""['fleur']"", ""['rose']"", ""['piquant']""]"
+['secateur'],S15,6,"[""['arbre']"", ""['branche']"", ""['feuille']"", ""['plante']"", ""['soin']"", ""['jardin']""]"
+['secateur'],S21,0,[]
+['secateur'],S22,0,[]
+['secateur'],S23,4,"[""['travail']"", ""['construction']"", ""['ménage']"", ""['maison']""]"
+['secateur'],S30,6,"[""['plante']"", ""['couper']"", ""['cultiver']"", ""['terre']"", ""['hobby']"", ""['jardin']""]"
+['secateur'],S34,4,"[""['jardin']"", ""['plante']"", ""['force']"", ""['être']""]"
+['secateur'],S57,9,"[""['couper']"", ""['buisson']"", ""['rose']"", ""['jardiner']"", ""['râteau']"", ""['pelle']"", ""['planter']"", ""['joli']"", ""['bel', 'fleur']""]"
+['secateur'],S64,5,"[""['pince']"", ""['opération']"", ""['bois']"", ""['construction']"", ""['desassemblemer']""]"
+['secateur'],S65,5,"[""['construction']"", ""['bricolage']"", ""['outil']"", ""['technique']"", ""['homme']""]"
+['secateur'],S67,3,"[""['fleur']"", ""['très', 'sharp']"", ""['jardin']""]"
+['seringue'],S7,5,"[""['infirmier']"", ""['analyse']"", ""['sang']"", ""['prendre']"", ""['douleur']""]"
+['seringue'],S12,6,"[""['médecine']"", ""['drogue']"", ""['hôpital']"", ""['addiction']"", ""['maladie']"", ""['vaccin']""]"
+['seringue'],S15,5,"[""['solution']"", ""['médecin']"", ""['assister']"", ""['hôpital']"", ""['cabinet']""]"
+['seringue'],S21,4,"[""['médical']"", ""['injection']"", ""['compression']"", ""['liquide']""]"
+['seringue'],S22,6,"[""['médecine']"", ""['mesurer']"", ""['médicament']"", ""['liquide']"", ""['science']"", ""['expérience']""]"
+['seringue'],S23,5,"[""['médical']"", ""['opération']"", ""['injection']"", ""['drogue']"", ""['médicament']""]"
+['seringue'],S30,7,"[""['injection']"", ""['liquide']"", ""['médicament']"", ""['docteur']"", ""['médecin']"", ""['jouet']"", ""['enfant']""]"
+['seringue'],S34,3,"[""['médecin']"", ""['douleur']"", ""['maladie']""]"
+['seringue'],S57,5,"[""['médicament']"", ""['drogue']"", ""['hôpital']"", ""['malade']"", ""['urgence']""]"
+['seringue'],S64,4,"[""['injection']"", ""['covid']"", ""['acide']"", ""['anticorp']""]"
+['seringue'],S65,0,[]
+['seringue'],S67,0,[]
+['soufflet'],S7,3,"[""['feu']"", ""['incendie']"", ""['cheminet']""]"
+['soufflet'],S12,0,[]
+['soufflet'],S15,0,[]
+['soufflet'],S21,6,"[""['forgeron']"", ""['enclume']"", ""['feu']"", ""['air']"", ""['chaud']"", ""['travailler']""]"
+['soufflet'],S22,0,[]
+['soufflet'],S23,0,[]
+['soufflet'],S30,0,[]
+['soufflet'],S34,3,"[""['souffle']"", ""['cheminée']"", ""['vent']""]"
+['soufflet'],S57,0,[]
+['soufflet'],S64,0,[]
+['soufflet'],S65,0,[]
+['soufflet'],S67,0,[]
+['spatule'],S7,5,"[""['manger']"", ""['chef']"", ""['cuisine']"", ""['poêle']"", ""['frire']""]"
+['spatule'],S12,5,"[""['cuisine']"", ""['crêpe']"", ""['oeuf']"", ""['remuer']"", ""['poêle']""]"
+['spatule'],S15,7,"[""['spatule']"", ""['nourriture']"", ""['repas']"", ""['matin', 'midi', 'soir']"", ""['snack']"", ""['grignotage']"", ""['de', 'oeuf', 'au', 'plat']""]"
+['spatule'],S21,2,"[""['cuisine']"", ""['retourner']""]"
+['spatule'],S22,0,[]
+['spatule'],S23,4,"[""['cuisine']"", ""['manger']"", ""['chef']"", ""['alimentation']""]"
+['spatule'],S30,5,"[""['cuisiner']"", ""['variété']"", ""['frire']"", ""['plastique']"", ""['métal']""]"
+['spatule'],S34,3,"[""['cuisine']"", ""['bois']"", ""['viande']""]"
+['spatule'],S57,3,"[""['cuisiner']"", ""['plaqu', 'de', 'cuisson']"", ""['steak', 'hacher']""]"
+['spatule'],S64,3,"[""['cuisiner']"", ""['faire', 'à', 'manger']"", ""['table']""]"
+['spatule'],S65,4,"[""['cuisine']"", ""['plat']"", ""['service']"", ""['manipulation']""]"
+['spatule'],S67,0,[]
+['stethoscope'],S7,0,[]
+['stethoscope'],S12,0,[]
+['stethoscope'],S15,0,[]
+['stethoscope'],S21,0,[]
+['stethoscope'],S22,0,[]
+['stethoscope'],S23,0,[]
+['stethoscope'],S30,0,[]
+['stethoscope'],S34,0,[]
+['stethoscope'],S57,8,"[""['médecin']"", ""['pédiatre']"", ""['malade']"", ""['vérifier']"", ""['étude']"", ""['poids']"", ""['bon', 'santé']"", ""['dossier', 'médical']""]"
+['stethoscope'],S64,7,"[""['médecin']"", ""['cancer']"", ""['cellule']"", ""['bactérie']"", ""['virus']"", ""['battement', 'de', 'cœur']"", ""['rythme']""]"
+['stethoscope'],S65,0,[]
+['stethoscope'],S67,0,[]
+['tambourin'],S7,4,"[""['jouer']"", ""['musique']"", ""['carnaval']"", ""['concert']""]"
+['tambourin'],S12,5,"[""['musique']"", ""['rythmique']"", ""['école', 'enfantin']"", ""['enfant']"", ""['bruit']""]"
+['tambourin'],S15,5,"[""['musique']"", ""['groupe']"", ""['son']"", ""['ambiance']"", ""['amusement']""]"
+['tambourin'],S21,6,"[""['instrument']"", ""['percussion']"", ""['petit', 'cymbale']"", ""['fête']"", ""['carnaval']"", ""['cirque']""]"
+['tambourin'],S22,0,[]
+['tambourin'],S23,5,"[""['musique']"", ""['performance']"", ""['orchestre']"", ""['artiste']"", ""['chanson']""]"
+['tambourin'],S30,6,"[""['bruit']"", ""['cymbale']"", ""['musique']"", ""['batterie']"", ""['métronome']"", ""['enfant']""]"
+['tambourin'],S34,3,"[""['musique']"", ""['enfance']"", ""['jouer']""]"
+['tambourin'],S57,6,"[""['musique']"", ""['salle', 'de', 'rythmique']"", ""['prof', 'de', 'musique']"", ""['danser']"", ""['rythme']"", ""['chanter']""]"
+['tambourin'],S64,2,"[""['percussion']"", ""['batteur']""]"
+['tambourin'],S65,4,"[""['le', 'bossu', 'de', 'notre', 'dame']"", ""['cathedral']"", ""['instrument', 'de', 'musique']"", ""['son']""]"
+['tambourin'],S67,0,[]
+['tapir'],S7,2,"[""['animal']"", ""['fourmi']""]"
+['tapir'],S12,0,[]
+['tapir'],S15,0,[]
+['tapir'],S21,3,"[""['animal']"", ""['afrique']"", ""['ongulide']""]"
+['tapir'],S22,0,[]
+['tapir'],S23,4,"[""['animal']"", ""['sauvage']"", ""['afrique']"", ""['savane']""]"
+['tapir'],S30,0,[]
+['tapir'],S34,0,[]
+['tapir'],S57,4,"[""['animal']"", ""['brun']"", ""['exotique']"", ""['quatre', 'patte']""]"
+['tapir'],S64,0,[]
+['tapir'],S65,5,"[""['animal']"", ""['odeur']"", ""['foret']"", ""['verdure']"", ""['proie']""]"
+['tapir'],S67,0,[]
+['taureau'],S7,0,[]
+['taureau'],S12,0,[]
+['taureau'],S15,0,[]
+['taureau'],S21,0,[]
+['taureau'],S22,0,[]
+['taureau'],S23,0,[]
+['taureau'],S30,0,[]
+['taureau'],S34,0,[]
+['taureau'],S57,3,"[""['signe', 'de', 'zodiaque']"", ""['mai']"", ""['bouc']""]"
+['taureau'],S64,4,"[""['animal']"", ""['vache']"", ""['rouge']"", ""['sang']""]"
+['taureau'],S65,0,[]
+['taureau'],S67,0,[]
+['telescope'],S7,6,"[""['nuit']"", ""['étoile']"", ""['voir']"", ""['chercher']"", ""['observatoire']"", ""['astronomie']""]"
+['telescope'],S12,6,"[""['lune']"", ""['étoile']"", ""['astronomie']"", ""['astrophysique']"", ""['cosmologi']"", ""['astrologie']""]"
+['telescope'],S15,5,"[""['espace']"", ""['étoile']"", ""['planète']"", ""['astronaute']"", ""['rocket']""]"
+['telescope'],S21,8,"[""['étoile']"", ""['physique']"", ""['trou', 'noir']"", ""['constellation']"", ""['observation']"", ""['astrophysique']"", ""['astronomie']"", ""['observatoire']""]"
+['telescope'],S22,3,"[""['regarder']"", ""['ciel']"", ""['étoile']""]"
+['telescope'],S23,5,"[""['astronomie']"", ""['observation']"", ""['scientifique']"", ""['calcul']"", ""['distance']""]"
+['telescope'],S30,6,"[""['observation']"", ""['lune']"", ""['soleil']"", ""['etoile']"", ""['nuit']"", ""['photograph']""]"
+['telescope'],S34,4,"[""['planète']"", ""['vue']"", ""['grand']"", ""['univers']""]"
+['telescope'],S57,6,"[""['télescope']"", ""['étoile']"", ""['étoile', 'filant']"", ""['soleil']"", ""['signe', 'de', 'zodiaque']"", ""['constellation']""]"
+['telescope'],S64,8,"[""['univers']"", ""['planète']"", ""['soleil']"", ""['jupiter']"", ""['neptun']"", ""['uranu']"", ""['étoile']"", ""['inconnu']""]"
+['telescope'],S65,7,"[""['astronaute']"", ""['étoile']"", ""['univers']"", ""['galaxie']"", ""['expédition']"", ""['découverte']"", ""['nature']""]"
+['telescope'],S67,5,"[""['étoile']"", ""['espace']"", ""['regarder']"", ""['très', 'joli']"", ""['romantique']""]"
+['tendeur'],S7,3,"[""['drapeau']"", ""['accrocher']"", ""['bâtiment']""]"
+['tendeur'],S12,0,[]
+['tendeur'],S15,0,[]
+['tendeur'],S21,0,[]
+['tendeur'],S22,0,[]
+['tendeur'],S23,0,[]
+['tendeur'],S30,6,"[""['tendeur']"", ""['corde']"", ""['tenir']"", ""['attacher']"", ""['élastique']"", ""['pliable']""]"
+['tendeur'],S34,0,[]
+['tendeur'],S57,4,"[""['attacher']"", ""['lier']"", ""['métal']"", ""['tissu']""]"
+['tendeur'],S64,0,[]
+['tendeur'],S65,0,[]
+['tendeur'],S67,0,[]
+['theiere'],S7,0,[]
+['theiere'],S12,0,[]
+['theiere'],S15,0,[]
+['theiere'],S21,0,[]
+['theiere'],S22,0,[]
+['theiere'],S23,0,[]
+['theiere'],S30,0,[]
+['theiere'],S34,0,[]
+['theiere'],S57,0,[]
+['theiere'],S64,0,[]
+['theiere'],S65,0,[]
+['theiere'],S67,0,[]
+['tirebouchon'],S7,0,[]
+['tirebouchon'],S12,0,[]
+['tirebouchon'],S15,0,[]
+['tirebouchon'],S21,0,[]
+['tirebouchon'],S22,0,[]
+['tirebouchon'],S23,0,[]
+['tirebouchon'],S30,0,[]
+['tirebouchon'],S34,0,[]
+['tirebouchon'],S57,0,[]
+['tirebouchon'],S64,0,[]
+['tirebouchon'],S65,0,[]
+['tirebouchon'],S67,0,[]
+['totem'],S7,3,"[""['religion']"", ""['croir']"", ""['symbole']""]"
+['totem'],S12,9,"[""['indien']"", ""['aigle']"", ""['animal']"", ""['nature']"", ""['esprit']"", ""['dieu']"", ""['feu', 'de', 'camp']"", ""['teepee']"", ""['amérique']""]"
+['totem'],S15,4,"[""['religion']"", ""['ancien']"", ""['histoire']"", ""['dieu']""]"
+['totem'],S21,5,"[""['scout']"", ""['rituel']"", ""['indien']"", ""['naturel']"", ""['bois']""]"
+['totem'],S22,0,[]
+['totem'],S23,3,"[""['religion']"", ""['rituel']"", ""['sacrifice']""]"
+['totem'],S30,5,"[""['statue']"", ""['indien']"", ""['bois']"", ""['brun']"", ""['feu']""]"
+['totem'],S34,3,"[""['indien']"", ""['bois']"", ""['structure']""]"
+['totem'],S57,4,"[""['feu']"", ""['bois']"", ""['sculpté']"", ""['couteau']""]"
+['totem'],S64,0,[]
+['totem'],S65,7,"[""['aztèque']"", ""['maya']"", ""['amérique', 'latin']"", ""['histoire']"", ""['monument']"", ""['statue']"", ""['emblème']""]"
+['totem'],S67,0,[]
+['tripied'],S7,6,"[""['mésure']"", ""['géologue']"", ""['architecte']"", ""['bâtiment']"", ""['hauteur']"", ""['distance']""]"
+['tripied'],S12,5,"[""['photo']"", ""['appareil', 'photo']"", ""['image']"", ""['film']"", ""['cinéma']""]"
+['tripied'],S15,9,"[""['trépied']"", ""['caméra']"", ""['photo']"", ""['paysage']"", ""['forêt']"", ""['coucher', 'de', 'soleil']"", ""['couleur']"", ""['maman']"", ""['souvenir']""]"
+['tripied'],S21,4,"[""['caméra']"", ""['stabilité']"", ""['filmer']"", ""['gyroscope']""]"
+['tripied'],S22,0,[]
+['tripied'],S23,4,"[""['caméra']"", ""['photographie']"", ""['stabilité']"", ""['optique']""]"
+['tripied'],S30,4,"[""['photographie']"", ""['stabilité']"", ""['pied']"", ""['trois']""]"
+['tripied'],S34,3,"[""['photo']"", ""['balance']"", ""['pied']""]"
+['tripied'],S57,7,"[""['photo']"", ""['vidéo']"", ""['précision']"", ""['stabilité']"", ""['film']"", ""['trois']"", ""['pied']""]"
+['tripied'],S64,5,"[""['cinéma']"", ""['prise']"", ""['photographie']"", ""['scène']"", ""['hollywood']""]"
+['tripied'],S65,6,"[""['photographie']"", ""['caméra']"", ""['appareil']"", ""['art']"", ""['soutien']"", ""['maintien']""]"
+['tripied'],S67,0,[]
+['tringle'],S7,1,"[""['régler']""]"
+['tringle'],S12,0,[]
+['tringle'],S15,0,[]
+['tringle'],S21,0,[]
+['tringle'],S22,0,[]
+['tringle'],S23,0,[]
+['tringle'],S30,0,[]
+['tringle'],S34,0,[]
+['tringle'],S57,9,"[""['rideau']"", ""['cacher']"", ""['fermer']"", ""['ouvrir']"", ""['luminosité']"", ""['soleil']"", ""['chambre']"", ""['pièce', 'salon']"", ""['laver']""]"
+['tringle'],S64,0,[]
+['tringle'],S65,0,[]
+['tringle'],S67,4,"[""['rideau']"", ""['barre']"", ""['fenêtre']"", ""['maison']""]"
+['tronconneuse'],S7,0,[]
+['tronconneuse'],S12,0,[]
+['tronconneuse'],S15,0,[]
+['tronconneuse'],S21,0,[]
+['tronconneuse'],S22,0,[]
+['tronconneuse'],S23,0,[]
+['tronconneuse'],S30,0,[]
+['tronconneuse'],S34,0,[]
+['tronconneuse'],S57,7,"[""['massacre', 'à', 'le', 'tronçonneuse']"", ""['film', 'dhorreur']"", ""['peur']"", ""['courir']"", ""['horreur']"", ""['pas', 'dormir']"", ""['nuit', 'blanc']""]"
+['tronconneuse'],S64,5,"[""['désassembler']"", ""['miette']"", ""['partie']"", ""['pièce']"", ""['tranche']""]"
+['tronconneuse'],S65,0,[]
+['tronconneuse'],S67,0,[]
+['truelle'],S7,0,[]
+['truelle'],S12,0,[]
+['truelle'],S15,0,[]
+['truelle'],S21,0,[]
+['truelle'],S22,0,[]
+['truelle'],S23,0,[]
+['truelle'],S30,0,[]
+['truelle'],S34,0,[]
+['truelle'],S57,0,[]
+['truelle'],S64,0,[]
+['truelle'],S65,0,[]
+['truelle'],S67,0,[]
+['violon'],S7,0,[]
+['violon'],S12,0,[]
+['violon'],S15,0,[]
+['violon'],S21,0,[]
+['violon'],S22,0,[]
+['violon'],S23,0,[]
+['violon'],S30,0,[]
+['violon'],S34,0,[]
+['violon'],S57,0,[]
+['violon'],S64,0,[]
+['violon'],S65,0,[]
+['violon'],S67,0,[]
+['xylophone'],S7,0,[]
+['xylophone'],S12,0,[]
+['xylophone'],S15,0,[]
+['xylophone'],S21,0,[]
+['xylophone'],S22,0,[]
+['xylophone'],S23,0,[]
+['xylophone'],S30,0,[]
+['xylophone'],S34,0,[]
+['xylophone'],S57,6,"[""['xylophone']"", ""['musique']"", ""['cours', 'de', 'musique']"", ""['cycle']"", ""['groupe', 'de', 'musique']"", ""['prof', 'de', 'musique']""]"
+['xylophone'],S64,5,"[""['instrument']"", ""['musical']"", ""['bruit']"", ""['être']"", ""['perturber']""]"
+['xylophone'],S65,0,[]
+['xylophone'],S67,0,[]
