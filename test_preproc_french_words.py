@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[8]:
-
 import io, os, csv, re
 import pandas as pd
 import numpy as np
@@ -85,11 +83,6 @@ def filter_and_preprocess_swow_data(data):
     # Preprocess the data based on the lang argument with spell checking
     df_preprocessed = df_clean.fillna('').applymap(lambda x: preprocess_text(x, nlp)) # = run proprocess_text() on df_preprocessed element-wise
 
-    # Print the count of responses based on location
-    # location_counts = df_preprocessed['nativeLanguage'].value_counts()
-    # print(f"From {len(data)} responses, {len(data) - len(df_clean)} have been removed.")
-    # print(f"The preprocessed dataset contains {len(df_preprocessed)} remaining responses.")
-
     return df_preprocessed
 
 def save_preprocessed_data(df_preprocessed, project_dir):
@@ -100,11 +93,7 @@ def save_preprocessed_data(df_preprocessed, project_dir):
 
 ## Finally, let's run !!
 def run_forest_run(project_dir):
-    #lang = 'en'
-    #project_dir = "/Users/licata/Documents/PROJECTS/WPGroundingLabels/SWOW_vs_MUSE_networks/"
-
-    # Load the SWOW data
-    #swow_data = load_swow_data(project_dir)
+   
     data = load_swow_data(project_dir)
     
     # Filter and preprocess the data
